@@ -2,37 +2,39 @@
     "Jueves 10 de Octubre": {
         "Tarde": [
             {
-                "Ciudad": "Bogotá",
-                "Lugar a visitar": "Vuelo a Madrid\n9h 45m\n20:15 - 13:00",
-                "Dirección": "Aeropuerto Barajas",
-                "Notas": "Reserva: WGQWOD",
-                "Link": "https://www.aireuropa.com/co/es/mytrips/managereservation?reservationId=WGQWOD&lastName=SANTAMARIA&checkinBox=false&search=true"
+                "City": "Bogotá",
+                "Place": "Vuelo a Madrid",
+                "Subtitle": "9h 45m, 20:15 - 13:00",
+                "Address": "Aeropuerto El Dorado",
+                "Notes": "Reserva: WGQWOD",
+                "Link": "https://www.aireuropa.com/co/es/mytrips/managereservation?reservationId=WGQWOD&lastName=SANTAMARIA&checkinBox=false&search=true",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7952.816277808044!2d-74.14733635470603!3d4.6989423239073895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9cb6430f8607%3A0x8eea5954ef14af30!2sEl%20Dorado%20International%20Airport!5e0!3m2!1sen!2sco!4v1727899850565!5m2!1sen!2sco"
             }
         ]
     },
     "Viernes 11 de Octubre": {
         "Tarde": [
             {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "",
-                "Dirección": "",
-                "Notas": "Almuerzo",
+                "City": "Madrid",
+                "Place": "Aeropuerto Barajas",
+                "Address": "Av de la Hispanidad, s/n, 28042 Madrid, Spain",
+                "Notes": "Almuerzo",
                 "Link": ""
             },
             {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "Airbnb",
-                "Dirección": "Calle de Atocha, 118 1\u00ba Izquierda, Madrid, Comunidad de Madrid 28012, Spain",
-                "Notas": "40\u00b0 24' 33.3565\" N 3\u00b0 41' 34.9098\" W",
+                "City": "Madrid",
+                "Place": "Airbnb",
+                "Address": "Calle de Atocha, 118 1º Izquierda, Madrid, Comunidad de Madrid 28012, Spain",
+                "Notes": "https://maps.app.goo.gl/z5CABaFbcnKLnGxr6",
                 "Link": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMYK9DWR5H"
             }
         ],
         "Tardenoche": [
             {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "Parque El Retiro",
-                "Dirección": "",
-                "Notas": "Cena",
+                "City": "Madrid",
+                "Place": "Parque El Retiro",
+                "Address": "Retiro, 28009 Madrid, Spain",
+                "Notes": "Cena",
                 "Link": ""
             }
         ]
@@ -40,37 +42,37 @@
     "Sábado 12 de Octubre": {
         "Mañana": [
             {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "Museo del Prado",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Madrid",
+                "Place": "Museo del Prado",
+                "Address": "Retiro, 28014 Madrid, Spain",
+                "Notes": "Mejor comprar entradas con anticipación",
                 "Link": ""
             }
         ],
         "Mediodía": [
             {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "Mercado de San Miguel",
-                "Dirección": "",
-                "Notas": "Almuerzo",
+                "City": "Madrid",
+                "Place": "Mercado de San Miguel",
+                "Address": "Pl. de San Miguel, s/n, Centro, 28005 Madrid, Spain",
+                "Notes": "Almuerzo",
+                "Link": "https://maps.app.goo.gl/zAn9hfY2czy4MCwV9"
+            }
+        ],
+        "Tarde": [
+            {
+                "City": "Madrid",
+                "Place": "El Rastro",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             }
         ],
         "Noche": [
             {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "",
-                "Dirección": "",
-                "Notas": "Cena",
-                "Link": ""
-            }
-        ],
-        "Tarde": [
-            {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "El Rastro",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Madrid",
+                "Place": "",
+                "Address": "",
+                "Notes": "Cena",
                 "Link": ""
             }
         ]
@@ -78,122 +80,122 @@
     "Domingo 13 de Octubre": {
         "Mañana": [
             {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "Tren a Toledo\n36m\n11:15 - 11:51",
-                "Dirección": "Madrid Atocha",
-                "Notas": "Reserva: SNCHFM",
+                "City": "Madrid",
+                "Place": "Tren a Toledo\n36m\n11:15 - 11:51",
+                "Address": "Madrid Atocha",
+                "Notes": "Reserva: SNCHFM",
                 "Link": ""
             }
         ],
         "Mediodía": [
             {
-                "Ciudad": "Toledo",
-                "Lugar a visitar": "",
-                "Dirección": "",
-                "Notas": "Almuerzo",
-                "Link": ""
-            }
-        ],
-        "Noche": [
-            {
-                "Ciudad": "Toledo",
-                "Lugar a visitar": "Catedral de Toledo / Alc\u00e1zar de Toledo",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Toledo",
+                "Place": "",
+                "Address": "",
+                "Notes": "Almuerzo",
                 "Link": ""
             }
         ],
         "Tarde": [
             {
-                "Ciudad": "Toledo",
-                "Lugar a visitar": "Airbnb",
-                "Dirección": "Calle Armas, 13 3\u00ba, Toledo, Castilla-La Mancha 45001, Spain",
-                "Notas": "39\u00b0 51' 37.2931\" N 4\u00b0 1' 16.0648\" W",
+                "City": "Toledo",
+                "Place": "Airbnb",
+                "Address": "Calle Armas, 13 3\u00ba, Toledo, Castilla-La Mancha 45001, Spain",
+                "Notes": "39\u00b0 51' 37.2931\" N 4\u00b0 1' 16.0648\" W",
                 "Link": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMCB329CWM"
+            }
+        ],
+        "Noche": [
+            {
+                "City": "Toledo",
+                "Place": "Catedral de Toledo / Alc\u00e1zar de Toledo",
+                "Address": "",
+                "Notes": "",
+                "Link": ""
             }
         ]
     },
     "Lunes 14 de Octubre": {
         "Mañana": [
             {
-                "Ciudad": "Toledo",
-                "Lugar a visitar": "",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Toledo",
+                "Place": "",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             }
         ],
         "Mediodía": [
             {
-                "Ciudad": "Toledo",
-                "Lugar a visitar": "",
-                "Dirección": "",
-                "Notas": "",
-                "Link": ""
-            }
-        ],
-        "Noche": [
-            {
-                "Ciudad": "Sevilla",
-                "Lugar a visitar": "Barrio Santa Cruz",
-                "Dirección": "",
-                "Notas": "Cena",
+                "City": "Toledo",
+                "Place": "",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             }
         ],
         "Tarde": [
             {
-                "Ciudad": "Toledo",
-                "Lugar a visitar": "Tren a Madrid\n36m\n15:25 - 16:01\n\nTren a Sevilla\n2h 42m\n14:58 - 19:40",
-                "Dirección": "Estaci\u00f3n Metro Toledo",
-                "Notas": "Reserva: \n3USVLD",
+                "City": "Toledo",
+                "Place": "Tren a Madrid\n36m\n15:25 - 16:01\n\nTren a Sevilla\n2h 42m\n14:58 - 19:40",
+                "Address": "Estaci\u00f3n Metro Toledo",
+                "Notes": "Reserva: \n3USVLD",
                 "Link": ""
             }
         ],
         "Tardenoche": [
             {
-                "Ciudad": "Sevilla",
-                "Lugar a visitar": "Airbnb",
-                "Dirección": "Calle San Clemente, 5 2-DCHA, Sevilla, Andaluc\u00eda 41004, Spain",
-                "Notas": "37\u00b0 23' 15.0713\" N 5\u00b0 59' 9.3908\" W",
+                "City": "Sevilla",
+                "Place": "Airbnb",
+                "Address": "Calle San Clemente, 5 2-DCHA, Sevilla, Andaluc\u00eda 41004, Spain",
+                "Notes": "37\u00b0 23' 15.0713\" N 5\u00b0 59' 9.3908\" W",
                 "Link": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMDKPPMYA5"
+            }
+        ],
+        "Noche": [
+            {
+                "City": "Sevilla",
+                "Place": "Barrio Santa Cruz",
+                "Address": "",
+                "Notes": "Cena",
+                "Link": ""
             }
         ]
     },
     "Martes 15 de Octubre": {
         "Mañana": [
             {
-                "Ciudad": "Sevilla",
-                "Lugar a visitar": "Catedral de Sevilla / Torre Giralda",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Sevilla",
+                "Place": "Catedral de Sevilla / Torre Giralda",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             }
         ],
         "Mediodía": [
             {
-                "Ciudad": "Sevilla",
-                "Lugar a visitar": "Plaza del Triufo",
-                "Dirección": "",
-                "Notas": "Almuerzo",
-                "Link": ""
-            }
-        ],
-        "Noche": [
-            {
-                "Ciudad": "Sevilla",
-                "Lugar a visitar": "",
-                "Dirección": "",
-                "Notas": "Cena",
+                "City": "Sevilla",
+                "Place": "Plaza del Triufo",
+                "Address": "",
+                "Notes": "Almuerzo",
                 "Link": ""
             }
         ],
         "Tarde": [
             {
-                "Ciudad": "Sevilla",
-                "Lugar a visitar": "Real Alc\u00e1zar",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Sevilla",
+                "Place": "Real Alc\u00e1zar",
+                "Address": "",
+                "Notes": "",
+                "Link": ""
+            }
+        ],
+        "Noche": [
+            {
+                "City": "Sevilla",
+                "Place": "",
+                "Address": "",
+                "Notes": "Cena",
                 "Link": ""
             }
         ]
@@ -201,73 +203,73 @@
     "Miércoles 16 de Octubre": {
         "Mañana": [
             {
-                "Ciudad": "Sevilla",
-                "Lugar a visitar": "Plaza de Espa\u00f1a",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Sevilla",
+                "Place": "Plaza de Espa\u00f1a",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             }
         ],
         "Mediodía": [
             {
-                "Ciudad": "Sevilla",
-                "Lugar a visitar": "Parque de Mar\u00eda Luisa o el barrio cercano de Triana",
-                "Dirección": "",
-                "Notas": "Almuerzo",
+                "City": "Sevilla",
+                "Place": "Parque de Mar\u00eda Luisa o el barrio cercano de Triana",
+                "Address": "",
+                "Notes": "Almuerzo",
                 "Link": ""
             }
         ],
         "Tarde": [
             {
-                "Ciudad": "Sevilla",
-                "Lugar a visitar": "Torre del Oro",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Sevilla",
+                "Place": "Torre del Oro",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             }
         ],
         "Tardenoche": [
             {
-                "Ciudad": "Sevilla",
-                "Lugar a visitar": "Flamenco",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Sevilla",
+                "Place": "Flamenco",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             }
         ]
     },
     "Jueves 17 de Octubre": {
-        "Noche": [
-            {
-                "Ciudad": "Porto",
-                "Lugar a visitar": "La Ribeira",
-                "Dirección": "",
-                "Notas": "Cena",
-                "Link": ""
-            }
-        ],
         "Tarde": [
             {
-                "Ciudad": "Sevilla",
-                "Lugar a visitar": "Vuelo a Porto\n1hr 15m\n16:20 - 16:35",
-                "Dirección": "Aeropuerto Sevilla",
-                "Notas": "Reserva: UQWMWD",
+                "City": "Sevilla",
+                "Place": "Vuelo a Porto\n1hr 15m\n16:20 - 16:35",
+                "Address": "Aeropuerto Sevilla",
+                "Notes": "Reserva: UQWMWD",
                 "Link": "https://www.ryanair.com/gb/en/trip/manage/98bcdefa-d7e0-4782-ae81-98e0778d1b9a"
             },
             {
-                "Ciudad": "Porto",
-                "Lugar a visitar": "Airbnb",
-                "Dirección": "Rua de Santos Pousada 272 D 13.3, Porto, Porto 4000-478, Portugal",
-                "Notas": "41\u00b0 9' 4.0428\" N 8\u00b0 36' 0.149\" W",
+                "City": "Porto",
+                "Place": "Airbnb",
+                "Address": "Rua de Santos Pousada 272 D 13.3, Porto, Porto 4000-478, Portugal",
+                "Notes": "41\u00b0 9' 4.0428\" N 8\u00b0 36' 0.149\" W",
                 "Link": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMBCSA2ACK"
             }
         ],
         "Tardenoche": [
             {
-                "Ciudad": "Porto",
-                "Lugar a visitar": "Puente Dom Lu\u00eds I",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Porto",
+                "Place": "Puente Dom Lu\u00eds I",
+                "Address": "",
+                "Notes": "",
+                "Link": ""
+            }
+        ],
+        "Noche": [
+            {
+                "City": "Porto",
+                "Place": "La Ribeira",
+                "Address": "",
+                "Notes": "Cena",
                 "Link": ""
             }
         ]
@@ -275,44 +277,44 @@
     "Viernes 18 de Octubre": {
         "Mañana": [
             {
-                "Ciudad": "Porto",
-                "Lugar a visitar": "Libreria Lello",
-                "Dirección": "",
-                "Notas": "Ir temprano porque se hace fila",
+                "City": "Porto",
+                "Place": "Libreria Lello",
+                "Address": "",
+                "Notes": "Ir temprano porque se hace fila",
                 "Link": ""
             }
         ],
         "Mediodía": [
             {
-                "Ciudad": "Porto",
-                "Lugar a visitar": "Ribeira o centro",
-                "Dirección": "",
-                "Notas": "Almuerzo",
+                "City": "Porto",
+                "Place": "Ribeira o centro",
+                "Address": "",
+                "Notes": "Almuerzo",
                 "Link": ""
             }
         ],
         "Tarde": [
             {
-                "Ciudad": "Porto",
-                "Lugar a visitar": "Palacio de la Bolsa / Sala \u00c1rabe",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Porto",
+                "Place": "Palacio de la Bolsa / Sala \u00c1rabe",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             },
             {
-                "Ciudad": "Porto",
-                "Lugar a visitar": "Jardim do Morro",
-                "Dirección": "",
-                "Notas": "Ver el atardecer tomandonos un vino",
+                "City": "Porto",
+                "Place": "Jardim do Morro",
+                "Address": "",
+                "Notes": "Ver el atardecer tomandonos un vino",
                 "Link": ""
             }
         ],
         "Tardenoche": [
             {
-                "Ciudad": "Porto",
-                "Lugar a visitar": "",
-                "Dirección": "",
-                "Notas": "Cena",
+                "City": "Porto",
+                "Place": "",
+                "Address": "",
+                "Notes": "Cena",
                 "Link": ""
             }
         ]
@@ -320,46 +322,46 @@
     "Sábado 19 de Octubre": {
         "Mañana": [
             {
-                "Ciudad": "Porto",
-                "Lugar a visitar": "Vuelo a Paris\n2h 10m\n10:10 - 13:30",
-                "Dirección": "Aeropuerto Porto",
-                "Notas": "Reserva:\nA6BMVL",
+                "City": "Porto",
+                "Place": "Vuelo a Paris\n2h 10m\n10:10 - 13:30",
+                "Address": "Aeropuerto Porto",
+                "Notes": "Reserva:\nA6BMVL",
                 "Link": "https://www.transavia.com/en-EU/itinerary/details-itinerary/?fk=C6uQx6sbB%2fMmhxTo1mhZpmD4qdj26QeDz%2fj1FlO%2br83oECPKtLw37ZsfjPC%2b%2bSnm8Eh9oUwdyEGvfDZfLn0pJutZ%2fk7drNwMRPSbRVephXgxxrDkn%2bv0VrcZcDoRRn7a"
             }
         ],
         "Mediodía": [
             {
-                "Ciudad": "Paris",
-                "Lugar a visitar": "",
-                "Dirección": "",
-                "Notas": "Almuerzo",
+                "City": "Paris",
+                "Place": "",
+                "Address": "",
+                "Notes": "Almuerzo",
                 "Link": ""
             }
         ],
         "Tarde": [
             {
-                "Ciudad": "Paris",
-                "Lugar a visitar": "Airbnb",
-                "Dirección": "112 ter Avenue de Suffren, Paris, \u00cele-de-France 75015, France",
-                "Notas": "48\u00b0 50' 55.2052\" N 2\u00b0 18' 15.9516\" E",
+                "City": "Paris",
+                "Place": "Airbnb",
+                "Address": "112 ter Avenue de Suffren, Paris, \u00cele-de-France 75015, France",
+                "Notes": "48\u00b0 50' 55.2052\" N 2\u00b0 18' 15.9516\" E",
                 "Link": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HM3NY5PNMB"
             }
         ],
         "Tardenoche": [
             {
-                "Ciudad": "Paris",
-                "Lugar a visitar": "Torre Eiffel",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Paris",
+                "Place": "Torre Eiffel",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             }
         ],
         "Noche": [
             {
-                "Ciudad": "Paris",
-                "Lugar a visitar": "",
-                "Dirección": "",
-                "Notas": "Cena",
+                "City": "Paris",
+                "Place": "",
+                "Address": "",
+                "Notes": "Cena",
                 "Link": ""
             }
         ]
@@ -367,37 +369,37 @@
     "Domingo 20 de Octubre": {
         "Mañana": [
             {
-                "Ciudad": "Paris",
-                "Lugar a visitar": "Versalles",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Paris",
+                "Place": "Versalles",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             }
         ],
         "Mediodía": [
             {
-                "Ciudad": "Paris",
-                "Lugar a visitar": "Versalles",
-                "Dirección": "",
-                "Notas": "Almuerzo",
+                "City": "Paris",
+                "Place": "Versalles",
+                "Address": "",
+                "Notes": "Almuerzo",
                 "Link": ""
             }
         ],
         "Tarde": [
             {
-                "Ciudad": "Paris",
-                "Lugar a visitar": "Versalles",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Paris",
+                "Place": "Versalles",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             }
         ],
         "Noche": [
             {
-                "Ciudad": "Paris",
-                "Lugar a visitar": "",
-                "Dirección": "",
-                "Notas": "Cena",
+                "City": "Paris",
+                "Place": "",
+                "Address": "",
+                "Notes": "Cena",
                 "Link": ""
             }
         ]
@@ -405,37 +407,37 @@
     "Lunes 21 de Octubre": {
         "Mañana": [
             {
-                "Ciudad": "Paris",
-                "Lugar a visitar": "Afueras del museo Louvre",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Paris",
+                "Place": "Afueras del museo Louvre",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             }
         ],
         "Mediodía": [
             {
-                "Ciudad": "Paris",
-                "Lugar a visitar": "Cedric Grolet",
-                "Dirección": "",
-                "Notas": "Almuerzo",
+                "City": "Paris",
+                "Place": "Cedric Grolet",
+                "Address": "",
+                "Notes": "Almuerzo",
                 "Link": ""
             }
         ],
         "Tarde": [
             {
-                "Ciudad": "Paris",
-                "Lugar a visitar": "Jardines de Luxemburgo",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Paris",
+                "Place": "Jardines de Luxemburgo",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             }
         ],
         "Noche": [
             {
-                "Ciudad": "Paris",
-                "Lugar a visitar": "",
-                "Dirección": "",
-                "Notas": "Cena",
+                "City": "Paris",
+                "Place": "",
+                "Address": "",
+                "Notes": "Cena",
                 "Link": ""
             }
         ]
@@ -443,37 +445,37 @@
     "Martes 22 de Octubre": {
         "Mañana": [
             {
-                "Ciudad": "Paris",
-                "Lugar a visitar": "Vuelo a Madrid\n2h 5m\n10:10 - 12:15",
-                "Dirección": "Aeropuerto Paris (Orly)",
-                "Notas": "Reserva: GECE9A",
+                "City": "Paris",
+                "Place": "Vuelo a Madrid\n2h 5m\n10:10 - 12:15",
+                "Address": "Aeropuerto Paris (Orly)",
+                "Notes": "Reserva: GECE9A",
                 "Link": "https://www.transavia.com/es-ES/itinerario/detalles-del-itinerario/?fk=0bFvJcYlKNvPTWdIed4ZMpLNOZs5yfUbtxiHKKPw5HyHn52xXti1L4oZC2fX17j38CbfXYO4F1fkIZu4fb70umI7MKvrUUlIp4WSMnZIKaDnC7IoZW0KnL129ruydGq9"
             }
         ],
         "Mediodía": [
             {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "",
-                "Dirección": "",
-                "Notas": "Almuerzo",
+                "City": "Madrid",
+                "Place": "",
+                "Address": "",
+                "Notes": "Almuerzo",
                 "Link": ""
             }
         ],
         "Tarde": [
             {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "Airbnb",
-                "Dirección": "Calle Mayor, 44, Madrid, Comunidad de Madrid 28013, Spain",
-                "Notas": "40\u00b0 24' 57.7746\" N 3\u00b0 42' 32.0249\" W",
+                "City": "Madrid",
+                "Place": "Airbnb",
+                "Address": "Calle Mayor, 44, Madrid, Comunidad de Madrid 28013, Spain",
+                "Notes": "40\u00b0 24' 57.7746\" N 3\u00b0 42' 32.0249\" W",
                 "Link": ""
             }
         ],
         "Noche": [
             {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "",
-                "Dirección": "",
-                "Notas": "Cena",
+                "City": "Madrid",
+                "Place": "",
+                "Address": "",
+                "Notes": "Cena",
                 "Link": ""
             }
         ]
@@ -481,37 +483,37 @@
     "Miércoles 23 de Octubre": {
         "Mañana": [
             {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "Gran Via y alrededores",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Madrid",
+                "Place": "Gran Via y alrededores",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             }
         ],
         "Mediodía": [
             {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "Gran Via y alrededores",
-                "Dirección": "",
-                "Notas": "Almuerzo",
-                "Link": ""
-            }
-        ],
-        "Noche": [
-            {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "Night out",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Madrid",
+                "Place": "Gran Via y alrededores",
+                "Address": "",
+                "Notes": "Almuerzo",
                 "Link": ""
             }
         ],
         "Tarde": [
             {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Madrid",
+                "Place": "",
+                "Address": "",
+                "Notes": "",
+                "Link": ""
+            }
+        ],
+        "Noche": [
+            {
+                "City": "Madrid",
+                "Place": "Night out",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             }
         ]
@@ -519,19 +521,19 @@
     "Jueves 24 de Octubre": {
         "Mañana": [
             {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "",
-                "Dirección": "",
-                "Notas": "",
+                "City": "Madrid",
+                "Place": "",
+                "Address": "",
+                "Notes": "",
                 "Link": ""
             }
         ],
         "Mediodía": [
             {
-                "Ciudad": "Madrid",
-                "Lugar a visitar": "Vuelo a Madrid\n10h 0m\n15:15 - 18:15",
-                "Dirección": "Aeropuerto Barajas",
-                "Notas": "Reserva: WGQWOD",
+                "City": "Madrid",
+                "Place": "Vuelo a Madrid\n10h 0m\n15:15 - 18:15",
+                "Address": "Aeropuerto Barajas",
+                "Notes": "Reserva: WGQWOD",
                 "Link": "https://www.aireuropa.com/co/es/mytrips/managereservation?reservationId=WGQWOD&lastName=SANTAMARIA&checkinBox=false&search=true"
             }
         ]
