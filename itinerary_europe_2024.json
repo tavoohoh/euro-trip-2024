@@ -1,0 +1,586 @@
+{
+    "0.0": {
+        "Tarde": [
+            {
+                "Fecha": "2024-10-10",
+                "Ciudad": "Bogotá",
+                "Lugar a visitar": "Vuelo a Madrid\n9h 45m\n20:15 - 13:00",
+                "Dirección": "Aeropuerto Barajas",
+                "Notas": "Reserva: WGQWOD",
+                "Link": "https://www.aireuropa.com/co/es/mytrips/managereservation?reservationId=WGQWOD&lastName=SANTAMARIA&checkinBox=false&search=true"
+            }
+        ]
+    },
+    "1.0": {
+        "Tarde": [
+            {
+                "Fecha": "2024-10-11",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "",
+                "Dirección": "",
+                "Notas": "Almuerzo",
+                "Link": ""
+            },
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "Airbnb",
+                "Dirección": "Calle de Atocha, 118 1\u00ba Izquierda, Madrid, Comunidad de Madrid 28012, Spain",
+                "Notas": "40\u00b0 24' 33.3565\" N 3\u00b0 41' 34.9098\" W",
+                "Link": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMYK9DWR5H"
+            }
+        ],
+        "Tardenoche": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "Parque El Retiro",
+                "Dirección": "",
+                "Notas": "Cena",
+                "Link": ""
+            }
+        ]
+    },
+    "2.0": {
+        "Mañana": [
+            {
+                "Fecha": "2024-10-12",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "Museo del Prado",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ],
+        "Mediodía": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "Mercado de San Miguel",
+                "Dirección": "",
+                "Notas": "Almuerzo",
+                "Link": ""
+            }
+        ],
+        "Noche": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "",
+                "Dirección": "",
+                "Notas": "Cena",
+                "Link": ""
+            }
+        ],
+        "Tarde": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "El Rastro",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ]
+    },
+    "3.0": {
+        "Mañana": [
+            {
+                "Fecha": "2024-10-13",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "Tren a Toledo\n36m\n11:15 - 11:51",
+                "Dirección": "Madrid Atocha",
+                "Notas": "Reserva: SNCHFM",
+                "Link": ""
+            }
+        ],
+        "Mediodía": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Toledo",
+                "Lugar a visitar": "",
+                "Dirección": "",
+                "Notas": "Almuerzo",
+                "Link": ""
+            }
+        ],
+        "Noche": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Toledo",
+                "Lugar a visitar": "Catedral de Toledo / Alc\u00e1zar de Toledo",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ],
+        "Tarde": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Toledo",
+                "Lugar a visitar": "Airbnb",
+                "Dirección": "Calle Armas, 13 3\u00ba, Toledo, Castilla-La Mancha 45001, Spain",
+                "Notas": "39\u00b0 51' 37.2931\" N 4\u00b0 1' 16.0648\" W",
+                "Link": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMCB329CWM"
+            }
+        ]
+    },
+    "4.0": {
+        "Mañana": [
+            {
+                "Fecha": "2024-10-14",
+                "Ciudad": "Toledo",
+                "Lugar a visitar": "",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ],
+        "Mediodía": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Toledo",
+                "Lugar a visitar": "",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ],
+        "Noche": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Sevilla",
+                "Lugar a visitar": "Barrio Santa Cruz",
+                "Dirección": "",
+                "Notas": "Cena",
+                "Link": ""
+            }
+        ],
+        "Tarde": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Toledo",
+                "Lugar a visitar": "Tren a Madrid\n36m\n15:25 - 16:01\n\nTren a Sevilla\n2h 42m\n14:58 - 19:40",
+                "Dirección": "Estaci\u00f3n Metro Toledo",
+                "Notas": "Reserva: \n3USVLD",
+                "Link": ""
+            }
+        ],
+        "Tardenoche": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Sevilla",
+                "Lugar a visitar": "Airbnb",
+                "Dirección": "Calle San Clemente, 5 2-DCHA, Sevilla, Andaluc\u00eda 41004, Spain",
+                "Notas": "37\u00b0 23' 15.0713\" N 5\u00b0 59' 9.3908\" W",
+                "Link": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMDKPPMYA5"
+            }
+        ]
+    },
+    "5.0": {
+        "Mañana": [
+            {
+                "Fecha": "2024-10-15",
+                "Ciudad": "Sevilla",
+                "Lugar a visitar": "Catedral de Sevilla / Torre Giralda",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ],
+        "Mediodía": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Sevilla",
+                "Lugar a visitar": "Plaza del Triufo",
+                "Dirección": "",
+                "Notas": "Almuerzo",
+                "Link": ""
+            }
+        ],
+        "Noche": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Sevilla",
+                "Lugar a visitar": "",
+                "Dirección": "",
+                "Notas": "Cena",
+                "Link": ""
+            }
+        ],
+        "Tarde": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Sevilla",
+                "Lugar a visitar": "Real Alc\u00e1zar",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ]
+    },
+    "6.0": {
+        "Mañana": [
+            {
+                "Fecha": "2024-10-16",
+                "Ciudad": "Sevilla",
+                "Lugar a visitar": "Plaza de Espa\u00f1a",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ],
+        "Mediodía": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Sevilla",
+                "Lugar a visitar": "Parque de Mar\u00eda Luisa o el barrio cercano de Triana",
+                "Dirección": "",
+                "Notas": "Almuerzo",
+                "Link": ""
+            }
+        ],
+        "Tarde": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Sevilla",
+                "Lugar a visitar": "Torre del Oro",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ],
+        "Tardenoche": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Sevilla",
+                "Lugar a visitar": "Flamenco",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ]
+    },
+    "7.0": {
+        "Noche": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Porto",
+                "Lugar a visitar": "La Ribeira",
+                "Dirección": "",
+                "Notas": "Cena",
+                "Link": ""
+            }
+        ],
+        "Tarde": [
+            {
+                "Fecha": "2024-10-17",
+                "Ciudad": "Sevilla",
+                "Lugar a visitar": "Vuelo a Porto\n1hr 15m\n16:20 - 16:35",
+                "Dirección": "Aeropuerto Sevilla",
+                "Notas": "Reserva: UQWMWD",
+                "Link": "https://www.ryanair.com/gb/en/trip/manage/98bcdefa-d7e0-4782-ae81-98e0778d1b9a"
+            },
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Porto",
+                "Lugar a visitar": "Airbnb",
+                "Dirección": "Rua de Santos Pousada 272 D 13.3, Porto, Porto 4000-478, Portugal",
+                "Notas": "41\u00b0 9' 4.0428\" N 8\u00b0 36' 0.149\" W",
+                "Link": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMBCSA2ACK"
+            }
+        ],
+        "Tardenoche": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Porto",
+                "Lugar a visitar": "Puente Dom Lu\u00eds I",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ]
+    },
+    "8.0": {
+        "Mañana": [
+            {
+                "Fecha": "2024-10-18",
+                "Ciudad": "Porto",
+                "Lugar a visitar": "Libreria Lello",
+                "Dirección": "",
+                "Notas": "Ir temprano porque se hace fila",
+                "Link": ""
+            }
+        ],
+        "Mediodía": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Porto",
+                "Lugar a visitar": "Ribeira o centro",
+                "Dirección": "",
+                "Notas": "Almuerzo",
+                "Link": ""
+            }
+        ],
+        "Tarde": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Porto",
+                "Lugar a visitar": "Palacio de la Bolsa / Sala \u00c1rabe",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            },
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Porto",
+                "Lugar a visitar": "Jardim do Morro",
+                "Dirección": "",
+                "Notas": "Ver el atardecer tomandonos un vino",
+                "Link": ""
+            }
+        ],
+        "Tardenoche": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Porto",
+                "Lugar a visitar": "",
+                "Dirección": "",
+                "Notas": "Cena",
+                "Link": ""
+            }
+        ]
+    },
+    "9.0": {
+        "Mañana": [
+            {
+                "Fecha": "2024-10-19",
+                "Ciudad": "Porto",
+                "Lugar a visitar": "Vuelo a Paris\n2h 10m\n10:10 - 13:30",
+                "Dirección": "Aeropuerto Porto",
+                "Notas": "Reserva:\nA6BMVL",
+                "Link": "https://www.transavia.com/en-EU/itinerary/details-itinerary/?fk=C6uQx6sbB%2fMmhxTo1mhZpmD4qdj26QeDz%2fj1FlO%2br83oECPKtLw37ZsfjPC%2b%2bSnm8Eh9oUwdyEGvfDZfLn0pJutZ%2fk7drNwMRPSbRVephXgxxrDkn%2bv0VrcZcDoRRn7a"
+            },
+            {
+                "Fecha": "2024-10-20",
+                "Ciudad": "Paris",
+                "Lugar a visitar": "Versalles",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ],
+        "Mediodía": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Paris",
+                "Lugar a visitar": "",
+                "Dirección": "",
+                "Notas": "Almuerzo",
+                "Link": ""
+            },
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Paris",
+                "Lugar a visitar": "Versalles",
+                "Dirección": "",
+                "Notas": "Almuerzo",
+                "Link": ""
+            }
+        ],
+        "Noche": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Paris",
+                "Lugar a visitar": "",
+                "Dirección": "",
+                "Notas": "Cena",
+                "Link": ""
+            },
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Paris",
+                "Lugar a visitar": "",
+                "Dirección": "",
+                "Notas": "Cena",
+                "Link": ""
+            }
+        ],
+        "Tarde": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Paris",
+                "Lugar a visitar": "Airbnb",
+                "Dirección": "112 ter Avenue de Suffren, Paris, \u00cele-de-France 75015, France",
+                "Notas": "48\u00b0 50' 55.2052\" N 2\u00b0 18' 15.9516\" E",
+                "Link": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HM3NY5PNMB"
+            },
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Paris",
+                "Lugar a visitar": "Versalles",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ],
+        "Tardenoche": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Paris",
+                "Lugar a visitar": "Torre Eiffel",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ]
+    },
+    "11.0": {
+        "Mañana": [
+            {
+                "Fecha": "2024-10-21",
+                "Ciudad": "Paris",
+                "Lugar a visitar": "Afueras del museo Louvre",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ],
+        "Mediodía": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Paris",
+                "Lugar a visitar": "Cedric Grolet",
+                "Dirección": "",
+                "Notas": "Almuerzo",
+                "Link": ""
+            }
+        ],
+        "Noche": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Paris",
+                "Lugar a visitar": "",
+                "Dirección": "",
+                "Notas": "Cena",
+                "Link": ""
+            }
+        ],
+        "Tarde": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Paris",
+                "Lugar a visitar": "Jardines de Luxemburgo",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ]
+    },
+    "12.0": {
+        "Mañana": [
+            {
+                "Fecha": "2024-10-22",
+                "Ciudad": "Paris",
+                "Lugar a visitar": "Vuelo a Madrid\n2h 5m\n10:10 - 12:15",
+                "Dirección": "Aeropuerto Paris (Orly)",
+                "Notas": "Reserva: GECE9A",
+                "Link": "https://www.transavia.com/es-ES/itinerario/detalles-del-itinerario/?fk=0bFvJcYlKNvPTWdIed4ZMpLNOZs5yfUbtxiHKKPw5HyHn52xXti1L4oZC2fX17j38CbfXYO4F1fkIZu4fb70umI7MKvrUUlIp4WSMnZIKaDnC7IoZW0KnL129ruydGq9"
+            }
+        ],
+        "Mediodía": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "",
+                "Dirección": "",
+                "Notas": "Almuerzo",
+                "Link": ""
+            }
+        ],
+        "Noche": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "",
+                "Dirección": "",
+                "Notas": "Cena",
+                "Link": ""
+            }
+        ],
+        "Tarde": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "Airbnb",
+                "Dirección": "Calle Mayor, 44, Madrid, Comunidad de Madrid 28013, Spain",
+                "Notas": "40\u00b0 24' 57.7746\" N 3\u00b0 42' 32.0249\" W",
+                "Link": ""
+            }
+        ]
+    },
+    "13.0": {
+        "Mañana": [
+            {
+                "Fecha": "2024-10-23",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "Gran Via y alrededores",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ],
+        "Mediodía": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "Gran Via y alrededores",
+                "Dirección": "",
+                "Notas": "Almuerzo",
+                "Link": ""
+            }
+        ],
+        "Noche": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "Night out",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ],
+        "Tarde": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ]
+    },
+    "14.0": {
+        "Mañana": [
+            {
+                "Fecha": "2024-10-24",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "",
+                "Dirección": "",
+                "Notas": "",
+                "Link": ""
+            }
+        ],
+        "Mediodía": [
+            {
+                "Fecha": "NaT",
+                "Ciudad": "Madrid",
+                "Lugar a visitar": "Vuelo a Madrid\n10h 0m\n15:15 - 18:15",
+                "Dirección": "Aeropuerto Barajas",
+                "Notas": "Reserva: WGQWOD",
+                "Link": "https://www.aireuropa.com/co/es/mytrips/managereservation?reservationId=WGQWOD&lastName=SANTAMARIA&checkinBox=false&search=true"
+            }
+        ]
+    }
+}
