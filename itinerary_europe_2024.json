@@ -18,11 +18,12 @@
     "Viernes 11 de Octubre": {
         "Tarde": [
             {
-                "Emoji": "🍴",
+                "Emoji": "🍕",
                 "City": "Madrid",
                 "Title": "Aeropuerto Barajas",
+                "Subtitle": "Almuerzo",
                 "Address": "Av de la Hispanidad, s/n, 28042 Madrid, Spain",
-                "Notes": "Almuerzo",
+                "Notes": "Podemos almorzar en el aeropuerto o camino al Airbnb",
                 "Link": ""
             },
             {
@@ -38,10 +39,11 @@
         ],
         "Tardenoche": [
             {
+                "Emoji": "🌳",
                 "City": "Madrid",
                 "Title": "Parque El Retiro",
                 "Address": "Retiro, 28009 Madrid, Spain",
-                "Notes": "Cena",
+                "Notes": "Paseo por el parque y luego cenamos",
                 "GoogleMaps": "https://maps.app.goo.gl/4Bc3ioePELcC8e7V6",
                 "Link": "",
                 "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d759.3971070366022!2d-3.680263569656085!3d40.41796754317735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42261ecb3ea321%3A0xb34c68421959d724!2sFlorida%20Park!5e0!3m2!1sen!2sco!4v1727969682781!5m2!1sen!2sco"
@@ -51,6 +53,7 @@
     "Sábado 12 de Octubre": {
         "Mañana": [
             {
+                "Emoji": "🖼️",
                 "City": "Madrid",
                 "Title": "Museo del Prado",
                 "Address": "Retiro, 28014 Madrid, Spain",
@@ -62,6 +65,7 @@
         ],
         "Mediodía": [
             {
+                "Emoji": "🛍️",
                 "City": "Madrid",
                 "Title": "Mercado de San Miguel",
                 "Address": "Pl. de San Miguel, s/n, Centro, 28005 Madrid, Spain",
@@ -71,6 +75,7 @@
         ],
         "Tarde": [
             {
+                "Emoji": "🛍️",
                 "City": "Madrid",
                 "Title": "El Rastro",
                 "Address": "",
@@ -80,6 +85,7 @@
         ],
         "Noche": [
             {
+                "Emoji": "🍕",
                 "City": "Madrid",
                 "Title": "",
                 "Address": "",
@@ -91,8 +97,10 @@
     "Domingo 13 de Octubre": {
         "Mañana": [
             {
+                "Emoji": "🚆",
                 "City": "Madrid",
-                "Title": "Tren a Toledo\n36m\n11:15 - 11:51",
+                "Title": "Tren a Toledo",
+                "Subtitle": "36m, 11:15 - 11:51",
                 "Address": "Madrid Atocha",
                 "Notes": "Reserva: SNCHFM",
                 "Link": ""
@@ -100,6 +108,7 @@
         ],
         "Mediodía": [
             {
+                "Emoji": "🍕",
                 "City": "Toledo",
                 "Title": "",
                 "Address": "",
@@ -109,6 +118,7 @@
         ],
         "Tarde": [
             {
+                "Emoji": "🏠",
                 "City": "Toledo",
                 "Title": "Airbnb",
                 "Address": "Calle Armas, 13 3\u00ba, Toledo, Castilla-La Mancha 45001, Spain",
@@ -118,8 +128,9 @@
         ],
         "Noche": [
             {
+                "Emoji": "⛪",
                 "City": "Toledo",
-                "Title": "Catedral de Toledo / Alc\u00e1zar de Toledo",
+                "Title": "Catedral de Toledo / Alcázar de Toledo",
                 "Address": "",
                 "Notes": "",
                 "Link": ""
@@ -129,6 +140,7 @@
     "Lunes 14 de Octubre": {
         "Mañana": [
             {
+                "Emoji": "⛪",
                 "City": "Toledo",
                 "Title": "",
                 "Address": "",
@@ -138,6 +150,7 @@
         ],
         "Mediodía": [
             {
+                "Emoji": "🍕",
                 "City": "Toledo",
                 "Title": "",
                 "Address": "",
@@ -147,6 +160,7 @@
         ],
         "Tarde": [
             {
+                "Emoji": "🚆",
                 "City": "Toledo",
                 "Title": "Tren a Madrid\n36m\n15:25 - 16:01\n\nTren a Sevilla\n2h 42m\n14:58 - 19:40",
                 "Address": "Estaci\u00f3n Metro Toledo",
@@ -156,6 +170,7 @@
         ],
         "Tardenoche": [
             {
+                "Emoji": "🏠",
                 "City": "Sevilla",
                 "Title": "Airbnb",
                 "Address": "Calle San Clemente, 5 2-DCHA, Sevilla, Andaluc\u00eda 41004, Spain",
@@ -165,6 +180,7 @@
         ],
         "Noche": [
             {
+                "Emoji": "🍕",
                 "City": "Sevilla",
                 "Title": "Barrio Santa Cruz",
                 "Address": "",
@@ -176,6 +192,7 @@
     "Martes 15 de Octubre": {
         "Mañana": [
             {
+                "Emoji": "⛪",
                 "City": "Sevilla",
                 "Title": "Catedral de Sevilla / Torre Giralda",
                 "Address": "",
@@ -185,6 +202,7 @@
         ],
         "Mediodía": [
             {
+                "Emoji": "🌳",
                 "City": "Sevilla",
                 "Title": "Plaza del Triufo",
                 "Address": "",
@@ -194,8 +212,9 @@
         ],
         "Tarde": [
             {
+                "Emoji": "🌳",
                 "City": "Sevilla",
-                "Title": "Real Alc\u00e1zar",
+                "Title": "Real Alcázar",
                 "Address": "",
                 "Notes": "",
                 "Link": ""
@@ -203,6 +222,7 @@
         ],
         "Noche": [
             {
+                "Emoji": "🍕",
                 "City": "Sevilla",
                 "Title": "",
                 "Address": "",
@@ -214,8 +234,9 @@
     "Miércoles 16 de Octubre": {
         "Mañana": [
             {
+                "Emoji": "⛪",
                 "City": "Sevilla",
-                "Title": "Plaza de Espa\u00f1a",
+                "Title": "Plaza de España",
                 "Address": "",
                 "Notes": "",
                 "Link": ""
@@ -223,8 +244,9 @@
         ],
         "Mediodía": [
             {
+                "Emoji": "🌳",
                 "City": "Sevilla",
-                "Title": "Parque de Mar\u00eda Luisa o el barrio cercano de Triana",
+                "Title": "Parque de María Luisa o el barrio cercano de Triana",
                 "Address": "",
                 "Notes": "Almuerzo",
                 "Link": ""
@@ -232,6 +254,7 @@
         ],
         "Tarde": [
             {
+                "Emoji": "⛪",
                 "City": "Sevilla",
                 "Title": "Torre del Oro",
                 "Address": "",
@@ -241,6 +264,7 @@
         ],
         "Tardenoche": [
             {
+                "Emoji": "💃",
                 "City": "Sevilla",
                 "Title": "Flamenco",
                 "Address": "",
@@ -252,13 +276,16 @@
     "Jueves 17 de Octubre": {
         "Tarde": [
             {
+                "Emoji": "✈️",
                 "City": "Sevilla",
-                "Title": "Vuelo a Porto\n1hr 15m\n16:20 - 16:35",
+                "Title": "Vuelo a Porto",
+                "Subtitle": "1hr 15m, 16:20 - 16:35",
                 "Address": "Aeropuerto Sevilla",
                 "Notes": "Reserva: UQWMWD",
                 "Link": "https://www.ryanair.com/gb/en/trip/manage/98bcdefa-d7e0-4782-ae81-98e0778d1b9a"
             },
             {
+                "Emoji": "🏠",
                 "City": "Porto",
                 "Title": "Airbnb",
                 "Address": "Rua de Santos Pousada 272 D 13.3, Porto, Porto 4000-478, Portugal",
@@ -268,8 +295,9 @@
         ],
         "Tardenoche": [
             {
+                "Emoji": "⛪",
                 "City": "Porto",
-                "Title": "Puente Dom Lu\u00eds I",
+                "Title": "Puente Dom Luís I",
                 "Address": "",
                 "Notes": "",
                 "Link": ""
@@ -277,6 +305,7 @@
         ],
         "Noche": [
             {
+                "Emoji": "🍕",
                 "City": "Porto",
                 "Title": "La Ribeira",
                 "Address": "",
@@ -288,6 +317,7 @@
     "Viernes 18 de Octubre": {
         "Mañana": [
             {
+                "Emoji": "⛪",
                 "City": "Porto",
                 "Title": "Libreria Lello",
                 "Address": "",
@@ -297,6 +327,7 @@
         ],
         "Mediodía": [
             {
+                "Emoji": "🍕",
                 "City": "Porto",
                 "Title": "Ribeira o centro",
                 "Address": "",
@@ -306,13 +337,15 @@
         ],
         "Tarde": [
             {
+                "Emoji": "⛪",
                 "City": "Porto",
-                "Title": "Palacio de la Bolsa / Sala \u00c1rabe",
+                "Title": "Palacio de la Bolsa / Sala Árabe",
                 "Address": "",
                 "Notes": "",
                 "Link": ""
             },
             {
+                "Emoji": "🌳",
                 "City": "Porto",
                 "Title": "Jardim do Morro",
                 "Address": "",
@@ -322,6 +355,7 @@
         ],
         "Tardenoche": [
             {
+                "Emoji": "🍕",
                 "City": "Porto",
                 "Title": "",
                 "Address": "",
@@ -333,6 +367,7 @@
     "Sábado 19 de Octubre": {
         "Mañana": [
             {
+                "Emoji": "✈️",
                 "City": "Porto",
                 "Title": "Vuelo a Paris\n2h 10m\n10:10 - 13:30",
                 "Address": "Aeropuerto Porto",
@@ -342,6 +377,7 @@
         ],
         "Mediodía": [
             {
+                "Emoji": "🍕",
                 "City": "Paris",
                 "Title": "",
                 "Address": "",
@@ -351,6 +387,7 @@
         ],
         "Tarde": [
             {
+                "Emoji": "🏠",
                 "City": "Paris",
                 "Title": "Airbnb",
                 "Address": "112 ter Avenue de Suffren, Paris, \u00cele-de-France 75015, France",
@@ -360,6 +397,7 @@
         ],
         "Tardenoche": [
             {
+                "Emoji": "⛪",
                 "City": "Paris",
                 "Title": "Torre Eiffel",
                 "Address": "",
@@ -369,6 +407,7 @@
         ],
         "Noche": [
             {
+                "Emoji": "🍕",
                 "City": "Paris",
                 "Title": "",
                 "Address": "",
@@ -380,6 +419,7 @@
     "Domingo 20 de Octubre": {
         "Mañana": [
             {
+                "Emoji": "⛪",
                 "City": "Paris",
                 "Title": "Versalles",
                 "Address": "",
@@ -389,6 +429,7 @@
         ],
         "Mediodía": [
             {
+                "Emoji": "🍕",
                 "City": "Paris",
                 "Title": "Versalles",
                 "Address": "",
@@ -398,6 +439,7 @@
         ],
         "Tarde": [
             {
+                "Emoji": "⛪",
                 "City": "Paris",
                 "Title": "Versalles",
                 "Address": "",
@@ -407,6 +449,7 @@
         ],
         "Noche": [
             {
+                "Emoji": "🍕",
                 "City": "Paris",
                 "Title": "",
                 "Address": "",
@@ -418,6 +461,7 @@
     "Lunes 21 de Octubre": {
         "Mañana": [
             {
+                "Emoji": "⛪",
                 "City": "Paris",
                 "Title": "Afueras del museo Louvre",
                 "Address": "",
@@ -427,6 +471,7 @@
         ],
         "Mediodía": [
             {
+                "Emoji": "🍕",
                 "City": "Paris",
                 "Title": "Cedric Grolet",
                 "Address": "",
@@ -436,6 +481,7 @@
         ],
         "Tarde": [
             {
+                "Emoji": "🌳",
                 "City": "Paris",
                 "Title": "Jardines de Luxemburgo",
                 "Address": "",
@@ -445,6 +491,7 @@
         ],
         "Noche": [
             {
+                "Emoji": "🍕",
                 "City": "Paris",
                 "Title": "",
                 "Address": "",
@@ -456,6 +503,7 @@
     "Martes 22 de Octubre": {
         "Mañana": [
             {
+                "Emoji": "✈️",
                 "City": "Paris",
                 "Title": "Vuelo a Madrid\n2h 5m\n10:10 - 12:15",
                 "Address": "Aeropuerto Paris (Orly)",
@@ -465,6 +513,7 @@
         ],
         "Mediodía": [
             {
+                "Emoji": "🍕",
                 "City": "Madrid",
                 "Title": "",
                 "Address": "",
@@ -474,6 +523,7 @@
         ],
         "Tarde": [
             {
+                "Emoji": "🏠",
                 "City": "Madrid",
                 "Title": "Airbnb",
                 "Address": "Calle Mayor, 44, Madrid, Comunidad de Madrid 28013, Spain",
@@ -483,6 +533,7 @@
         ],
         "Noche": [
             {
+                "Emoji": "🍕",
                 "City": "Madrid",
                 "Title": "",
                 "Address": "",
@@ -494,6 +545,7 @@
     "Miércoles 23 de Octubre": {
         "Mañana": [
             {
+                "Emoji": "🛍️",
                 "City": "Madrid",
                 "Title": "Gran Via y alrededores",
                 "Address": "",
@@ -503,6 +555,7 @@
         ],
         "Mediodía": [
             {
+                "Emoji": "🍕",
                 "City": "Madrid",
                 "Title": "Gran Via y alrededores",
                 "Address": "",
@@ -512,6 +565,7 @@
         ],
         "Tarde": [
             {
+                "Emoji": "⛪",
                 "City": "Madrid",
                 "Title": "",
                 "Address": "",
@@ -521,6 +575,7 @@
         ],
         "Noche": [
             {
+                "Emoji": "⛪",
                 "City": "Madrid",
                 "Title": "Night out",
                 "Address": "",
@@ -532,6 +587,7 @@
     "Jueves 24 de Octubre": {
         "Mañana": [
             {
+                "Emoji": "⛪",
                 "City": "Madrid",
                 "Title": "",
                 "Address": "",
@@ -541,6 +597,7 @@
         ],
         "Mediodía": [
             {
+                "Emoji": "✈️",
                 "City": "Madrid",
                 "Title": "Vuelo a Madrid\n10h 0m\n15:15 - 18:15",
                 "Address": "Aeropuerto Barajas",

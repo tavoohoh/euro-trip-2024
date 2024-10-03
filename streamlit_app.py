@@ -33,19 +33,18 @@ card_style = """
         border-radius: 16px;
         color: white;
         display: grid;
-        grid-template-rows: 200px 1fr auto;
+        grid-template-rows: auto 1fr auto;
         overflow: hidden;
         max-width: 480px;
         margin: 0 auto 24px;
         padding-bottom: 16px;
-        gap: 12px;
     }
 
     .card-header {
         display: grid;
         grid-template-columns: min-content 1fr;
         gap: 16px;
-        padding: 0 16px;
+        padding: 16px;
     }
 
     .card-content {
@@ -79,7 +78,7 @@ card_style = """
 
     .iframe-container {
         width: 100%;
-        height: 100%;
+        height: 200px;
     }
     </style>
 """
@@ -99,7 +98,7 @@ for day, schedule in itinerary_json.items():
         bg_color = bg_colors.get(time_of_day, "#FFFFFF")
 
         for activity in activities:
-            card_content = f'<div class="card" style="background-color: {bg_color};">'
+            card_content = f'<div class="card" style="background: {bg_color};">'
 
             if 'Iframe' in activity and activity['Iframe']:
                 card_content += f'<div class="iframe-container">'
@@ -127,6 +126,9 @@ for day, schedule in itinerary_json.items():
             card_content += f'</div>'
 
             card_content += f'<div class="card-content">'
+
+            if 'Notes' in activity and activity['Notes']:
+                card_content += f'<p>{activity["Notes"]}</p>'
 
             if 'Booking' in activity and activity['Booking']:
                 card_content += f'<p><strong>Reserva:</strong> <a href="{activity["Booking"]}" style="color:white;">{activity["Booking_Number"]}</a></p>'
