@@ -31,21 +31,43 @@ card_style = """
     <style>
     .card {
         border-radius: 16px;
-        margin-bottom: 20px;
         color: white;
-        display: flex;
-        flex-direction: column;
+        display: grid;
+        grid-template-rows: 200px 1fr auto;
         overflow: hidden;
+        max-width: 480px;
+        margin: 0 auto 24px;
+        padding-bottom: 16px;
+        gap: 12px;
     }
-    @media(min-width: 768px) {
-        .card {
-            flex-direction: row;
-        }
+
+    .card-header {
+        display: grid;
+        grid-template-columns: min-content 1fr;
+        gap: 16px;
+        padding: 0 16px;
     }
+
+    .card-content {
+        padding: 0 16px;
+    }
+
+    .card-emoji {
+        font-size: 36px;
+    }
+
     .card h2 {
         font-weight: bold;
-        margin-bottom: 10px;
+        margin: 0;
+        padding: 0;
     }
+
+    .card h4 {
+        font-weight: bold;
+        margin: 0;
+        padding: 0;
+    }
+
     .card p {
         margin: 5px 0;
     }
@@ -57,35 +79,25 @@ card_style = """
 
     .iframe-container {
         width: 100%;
-        height: 300px;
-    }
-    @media(min-width: 768px) {
-        .iframe-container {
-            width: 50%;
-            height: 300px;
-        }
+        height: 100%;
     }
     </style>
 """
 
 st.markdown(card_style, unsafe_allow_html=True)
 
-# Crear links con anchorpoints en el sidebar
 st.sidebar.write("Días disponibles:")
 for day in itinerary_json.keys():
     st.sidebar.markdown(f'<a href="#{day}">{day}</a>', unsafe_allow_html=True)
 
-# Mostrar todas las actividades de todos los días
 for day, schedule in itinerary_json.items():
     st.markdown(f'<h2 id="{day}">{day}</h2>', unsafe_allow_html=True)
 
-    # Recorrer los momentos del día (mañana, mediodía, tarde, tardenoche, noche)
     for time_of_day, activities in schedule.items():
         st.subheader(f"{time_of_day.capitalize()}")
 
         bg_color = bg_colors.get(time_of_day, "#FFFFFF")
 
-        # Mostrar una tarjeta por cada actividad
         for activity in activities:
             card_content = f'<div class="card" style="background-color: {bg_color};">'
 
@@ -94,16 +106,35 @@ for day, schedule in itinerary_json.items():
                 card_content += f'<iframe src="{activity["Iframe"]}" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
                 card_content += f'</div>'
 
-            card_content += f'<div style="padding: 16px;">'
+            card_content += f'<div class="card-header">'
+
+            if 'Emoji' in activity and activity['Emoji']:
+                card_content += f'<div class="card-emoji">{activity["Emoji"]}</div>'
+
+
+            card_content += f'<div>'
+
+            if 'City' in activity and activity['City']:
+                card_content += f'<h4>{activity["City"]}</h4>'
+            
+            if 'Title' in activity and activity['Title']:
+                card_content += f'<h2>{activity["Title"]}</h2>'
             
             if 'Subtitle' in activity and activity['Subtitle']:
                 card_content += f'<b>{activity["Subtitle"]}</b>'
 
-            card_content += f'<h2>{activity["Place"]} - {activity["City"]}</h2>'
-            card_content += f'<p><strong>Dirección:</strong> {activity["Address"]}</p>'
-            card_content += f'<p><strong>Notas:</strong> {activity["Notes"]}</p>'
+            card_content += f'</div>'
+            card_content += f'</div>'
 
-            if activity['Link']:
+            card_content += f'<div class="card-content">'
+
+            if 'Booking' in activity and activity['Booking']:
+                card_content += f'<p><strong>Reserva:</strong> <a href="{activity["Booking"]}" style="color:white;">{activity["Booking_Number"]}</a></p>'
+
+            if 'GoogleMaps' in activity and activity['GoogleMaps']:
+                card_content += f'<p><strong>Google Maps:</strong> <a href="{activity["GoogleMaps"]}" style="color:white;">{activity["Address"]}</a></p>'
+
+            if 'Link' in activity and activity['Link']:
                 card_content += f'<p><a href="{activity["Link"]}" style="color:white;">Más información</a></p>'
 
             card_content += f'</div></div>'
