@@ -40,6 +40,10 @@ card_style = """
         padding-bottom: 16px;
     }
 
+    .card * {
+        color: #fafafa!important;
+    }
+
     .card-header {
         display: grid;
         grid-template-columns: min-content 1fr;
@@ -71,14 +75,9 @@ card_style = """
         margin: 5px 0;
     }
 
-    .card h2 {
-        margin: 0;
-        padding-top: 0;
-    }
-
     .iframe-container {
         width: 100%;
-        height: 200px;
+        height: 300px;
     }
     </style>
 """

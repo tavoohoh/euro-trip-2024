@@ -30,10 +30,13 @@
                 "Emoji": "🏠",
                 "City": "Madrid",
                 "Title": "Airbnb",
+                "Subtitle": "35 minutos en metro desde el aeropuerto",
+                "Booking": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMYK9DWR5H",
+                "Booking_Number": "Airbnb",
                 "Address": "Calle de Atocha, 118 1º Izquierda, Madrid, Comunidad de Madrid 28012, Spain",
                 "Notes": "",
                 "GoogleMaps": "https://maps.app.goo.gl/z5CABaFbcnKLnGxr6",
-                "Link": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMYK9DWR5H",
+                "Link": "",
                 "Iframe": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3037.9807243309187!2d-3.6930278000000003!3d40.40927779999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDDCsDI0JzMzLjQiTiAzwrA0MSczNC45Ilc!5e0!3m2!1sen!2sco!4v1727969272868!5m2!1sen!2sco"
             }
         ],
@@ -42,6 +45,7 @@
                 "Emoji": "🌳",
                 "City": "Madrid",
                 "Title": "Parque El Retiro",
+                "Subtitle": "30 minutos caminando por el parque",
                 "Address": "Retiro, 28009 Madrid, Spain",
                 "Notes": "Paseo por el parque y luego cenamos",
                 "GoogleMaps": "https://maps.app.goo.gl/4Bc3ioePELcC8e7V6",
@@ -56,10 +60,10 @@
                 "Emoji": "🖼️",
                 "City": "Madrid",
                 "Title": "Museo del Prado",
+                "Subtitle": "9 minutos caminando",
                 "Address": "Retiro, 28014 Madrid, Spain",
                 "Notes": "Mejor comprar entradas con anticipación",
                 "GoogleMaps": "https://maps.app.goo.gl/jLJeT972Yjyw56mx5",
-                "Link": "",
                 "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3127.3231260241714!2d-3.693747394846622!3d40.41111026259575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42289d66d8a2ed%3A0x1094f07d93ad885a!2sMuseo%20Nacional%20del%20Prado!5e0!3m2!1sen!2sco!4v1727969726241!5m2!1sen!2sco"
             }
         ],
@@ -67,30 +71,23 @@
             {
                 "Emoji": "🛍️",
                 "City": "Madrid",
-                "Title": "Mercado de San Miguel",
-                "Address": "Pl. de San Miguel, s/n, Centro, 28005 Madrid, Spain",
-                "Notes": "Almuerzo",
-                "Link": "https://maps.app.goo.gl/zAn9hfY2czy4MCwV9"
-            }
-        ],
-        "Tarde": [
-            {
-                "Emoji": "🛍️",
-                "City": "Madrid",
                 "Title": "El Rastro",
-                "Address": "",
-                "Notes": "",
-                "Link": ""
+                "Subtitle": "Shopping y almorzar",
+                "Address": "Centro, 28005 Madrid, Spain",
+                "GoogleMaps": "https://maps.app.goo.gl/CnGEg2UKBJfntPKd6",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12151.695322880152!2d-3.717588966089212!3d40.410538144949044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4227006b95e439%3A0x217532b081de014!2sEl%20Rastro!5e0!3m2!1sen!2sco!4v1727990951270!5m2!1sen!2sco"
             }
         ],
         "Noche": [
             {
                 "Emoji": "🍕",
                 "City": "Madrid",
-                "Title": "",
-                "Address": "",
+                "Title": "Bodega de la Ardosa",
+                "Subtitle": "Bar de tapas en Madrid",
+                "Address": "C. de Colón, 13, Centro, 28004 Madrid, Spain",
                 "Notes": "Cena",
-                "Link": ""
+                "GoogleMaps": "https://maps.app.goo.gl/GCQ6CLtX2hbGHKoG6",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12149.303194227316!2d-3.712037868533468!3d40.42378418004907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd422888128612f3%3A0x85881175e523c211!2sBodega%20de%20la%20Ardosa!5e0!3m2!1sen!2sco!4v1727991407758!5m2!1sen!2sco"
             }
         ]
     },
@@ -101,39 +98,51 @@
                 "City": "Madrid",
                 "Title": "Tren a Toledo",
                 "Subtitle": "36m, 11:15 - 11:51",
+                "GoogleMaps": "https://maps.app.goo.gl/5mfZEf6pqHbEoak1A",
                 "Address": "Madrid Atocha",
-                "Notes": "Reserva: SNCHFM",
-                "Link": ""
+                "Booking": "https://www.thetrainline.com/en-us",
+                "Booking_Number": "SNCHFM",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6076.023686186263!2d-3.692490297878951!3d40.40858842279209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42262445cdd817%3A0x3947f9c28d65035b!2sEstaci%C3%B3n%20Madrid%20-%20Puerta%20de%20Atocha!5e0!3m2!1sen!2sco!4v1728003452347!5m2!1sen!2sco"
             }
         ],
         "Mediodía": [
             {
                 "Emoji": "🍕",
                 "City": "Toledo",
-                "Title": "",
-                "Address": "",
+                "Title": "El Trébol",
+                "Subtitle": "Para almorzar antes de ir al Airbnb",
+                "Address": "C. de Sta. Fe, 1, 45001 Toledo, Spain",
+                "GoogleMaps": "https://maps.app.goo.gl/5z8QF2SMnkuRo5Eg8",
                 "Notes": "Almuerzo",
-                "Link": ""
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12250.548590067605!2d-4.031106568848719!3d39.859963917708335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6a0ba577248b69%3A0xec6fecb0429e35b1!2sEl%20Tr%C3%A9bol!5e0!3m2!1sen!2sco!4v1728003865054!5m2!1sen!2sco"
             }
         ],
         "Tarde": [
             {
                 "Emoji": "🏠",
                 "City": "Toledo",
-                "Title": "Airbnb",
-                "Address": "Calle Armas, 13 3\u00ba, Toledo, Castilla-La Mancha 45001, Spain",
-                "Notes": "39\u00b0 51' 37.2931\" N 4\u00b0 1' 16.0648\" W",
-                "Link": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMCB329CWM"
+                "Title": "Check In Airbnb",
+                "Subtitle": "22 minutos caminando de la estación de trenes",
+                "Booking": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMCB329CWM",
+                "Booking_Number": "Airbnb",
+                "Address": "Calle Armas, 13 3º, Toledo, Castilla-La Mancha 45001, Spain",
+                "Notes": "<b>Check In:</b> 15:00",
+                "GoogleMaps": "https://maps.app.goo.gl/z5CABaFbcnKLnGxr6",
+                "Link": "",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3062.619505875135!2d-4.0211291!3d39.8603592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMznCsDUxJzM3LjMiTiA0wrAwMScxNi4xIlc!5e0!3m2!1sen!2sco!4v1728003286367!5m2!1sen!2sco"
             }
         ],
-        "Noche": [
+        "Tardenoche": [
             {
                 "Emoji": "⛪",
                 "City": "Toledo",
-                "Title": "Catedral de Toledo / Alcázar de Toledo",
-                "Address": "",
+                "Title": "La Ermitaña",
+                "Subtitle": "Mirador para ir a cenar",
+                "Address": "Ctra. Circunvalación, 19, 45004 Toledo, Spain",
+                "GoogleMaps": "https://maps.app.goo.gl/kjSVyN7Atf1aWgZk8",
+                "Link": "",
                 "Notes": "",
-                "Link": ""
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12252.077782069791!2d-4.028805155081567!3d39.85139726680853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6a0bd989262f99%3A0x2bb25341782acdb!2sRestaurante%20La%20Ermita%C3%B1a%20%2F%20Mirador%20Gastron%C3%B3mico%20de%20Toledo!5e0!3m2!1sen!2sco!4v1728003961392!5m2!1sen!2sco"
             }
         ]
     },
@@ -142,40 +151,76 @@
             {
                 "Emoji": "⛪",
                 "City": "Toledo",
-                "Title": "",
-                "Address": "",
+                "Title": "Catedral de Toledo",
+                "Subtitle": "",
+                "Address": "Calle Cardenal Cisneros, 1, 45002 Toledo, Spain",
                 "Notes": "",
-                "Link": ""
+                "Link": "",
+                "GoogleMaps": "https://maps.app.goo.gl/8ySjFGKuwNxkeGWm7",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12252.077782069791!2d-4.0288051550815425!3d39.85139726680853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6a0ba663d233eb%3A0x7d339edda10a36ee!2sSanta%20Iglesia%20Catedral%20Primada%20de%20Toledo!5e0!3m2!1sen!2sco!4v1728004126680!5m2!1sen!2sco"
+            },
+            {
+                "Emoji": "⛪",
+                "City": "Toledo",
+                "Title": "Alcázar de Toledo",
+                "Subtitle": "",
+                "Address": "C. de la Union, s/n, 45001 Toledo, Spain",
+                "Notes": "",
+                "Link": "",
+                "GoogleMaps": "https://maps.app.goo.gl/iGQs46ej5qFoz8q39",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12250.940149431763!2d-4.0307744688499145!3d39.85777051824112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6a0ba4554d32ff%3A0xc5d940fb5fb95c60!2sAlc%C3%A1zar%20de%20Toledo!5e0!3m2!1sen!2sco!4v1728073555021!5m2!1sen!2sco"
             }
         ],
         "Mediodía": [
             {
+                "Emoji": "🏠",
+                "City": "Toledo",
+                "Title": "Check Out Airbnb",
+                "Subtitle": "A las 12:00 horas",
+                "Notes": "",
+                "GoogleMaps": "",
+                "Link": "",
+                "Iframe": ""
+            },
+            {
                 "Emoji": "🍕",
                 "City": "Toledo",
-                "Title": "",
-                "Address": "",
+                "Title": "Terraza Recaredo",
+                "Subtitle": "",
+                "Address": "P.º Recaredo, 3, 45002 Toledo, Spain",
                 "Notes": "",
-                "Link": ""
+                "Link": "",
+                "GoogleMaps": "https://maps.app.goo.gl/xSCCNJUbYpLqBnBw8",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6125.466666979637!2d-4.030199013915649!3d39.85780869735738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6a0b0626411c2b%3A0x6b2b8563c9d10b0d!2sTerraza%20Recaredo!5e0!3m2!1sen!2sco!4v1728073801443!5m2!1sen!2sco"
             }
         ],
         "Tarde": [
             {
                 "Emoji": "🚆",
                 "City": "Toledo",
-                "Title": "Tren a Madrid\n36m\n15:25 - 16:01\n\nTren a Sevilla\n2h 42m\n14:58 - 19:40",
-                "Address": "Estaci\u00f3n Metro Toledo",
-                "Notes": "Reserva: \n3USVLD",
-                "Link": ""
+                "Title": "Tren a Sevilla",
+                "Subtitle": "De Toledo a Madrid y de Madrid a Sevilla",
+                "Address": "Estación Metro Toledo",
+                "Booking_Number": "3USVLD",
+                "Booking": "https://www.thetrainline.com/en-us",
+                "GoogleMaps": "https://maps.app.goo.gl/x6JurZWNrpAxYVEM6",
+                "Notes": "<b>Tren a Madrid:</b> 36m, 15:25 - 16:01 <br> <b>Tren a Sevilla:</b> 2h 42m, 14:58 - 19:40",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12250.123547356354!2d-4.021654418847404!3d39.86234476713004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6a0bb7a67dd3e1%3A0xa65f6c60ba459e72!2sEstaci%C3%B3n%20de%20tren%20Toledo!5e0!3m2!1sen!2sco!4v1728003064259!5m2!1sen!2sco"
             }
         ],
         "Tardenoche": [
             {
                 "Emoji": "🏠",
                 "City": "Sevilla",
-                "Title": "Airbnb",
-                "Address": "Calle San Clemente, 5 2-DCHA, Sevilla, Andaluc\u00eda 41004, Spain",
-                "Notes": "37\u00b0 23' 15.0713\" N 5\u00b0 59' 9.3908\" W",
-                "Link": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMDKPPMYA5"
+                "Title": "Check In Airbnb",
+                "Subtitle": "20 minutos caminando de la estación de trenes",
+                "Booking": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMDKPPMYA5",
+                "Booking_Number": "Airbnb",
+                "Address": "Calle San Clemente, 5 2-DCHA, Sevilla, Andalucía 41004, Spain",
+                "Notes": "El check in es a las 15:00 horas",
+                "GoogleMaps": "https://maps.app.goo.gl/bXKPkTSFKJyvtL988",
+                "Link": "",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3170.097780573395!2d-5.9859419!3d37.3875198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDIzJzE1LjEiTiA1wrA1OScwOS40Ilc!5e0!3m2!1sen!2sco!4v1728074844513!5m2!1sen!2sco"
             }
         ],
         "Noche": [
@@ -183,9 +228,12 @@
                 "Emoji": "🍕",
                 "City": "Sevilla",
                 "Title": "Barrio Santa Cruz",
-                "Address": "",
+                "Subtitle": "Cenar en Santa Cruz",
+                "Address": "C. Mesón del Moro, 6, Casco Antiguo, 41003 Sevilla, Spain",
                 "Notes": "Cena",
-                "Link": ""
+                "Link": "",
+                "GoogleMaps": "https://maps.app.goo.gl/NPQD8zfdwNxcrtgA8",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.197882512235!2d-5.990603935720826!3d37.3851523!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1bdf00614b%3A0x7d4bc82b76263ad8!2sRestaurante%20San%20Marco%20Santa%20Cruz!5e0!3m2!1sen!2sco!4v1728075301646!5m2!1sen!2sco"
             }
         ]
     },
@@ -194,10 +242,22 @@
             {
                 "Emoji": "⛪",
                 "City": "Sevilla",
-                "Title": "Catedral de Sevilla / Torre Giralda",
-                "Address": "",
+                "Title": "Catedral de Sevilla",
+                "Address": "Av. de la Constitución, s/n, Casco Antiguo, 41004 Sevilla, Spain",
+                "GoogleMaps": "https://maps.app.goo.gl/vfevxiw7EmPMQnq67",
                 "Notes": "",
-                "Link": ""
+                "Link": "",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12680.677886595278!2d-6.003385067889534!3d37.385824255232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1755b54781%3A0xe49da05de71e6de5!2sCatedral%20de%20Sevilla!5e0!3m2!1sen!2sco!4v1728075395186!5m2!1sen!2sco"
+            },
+            {
+                "Emoji": "⛪",
+                "City": "Sevilla",
+                "Title": "Torre Giralda",
+                "Address": "Av. de la Constitución, s/n, Casco Antiguo, 41004 Sevilla, Spain",
+                "GoogleMaps": "https://maps.app.goo.gl/y4NNUY4G4YkPSMDn7",
+                "Notes": "",
+                "Link": "",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12680.618066895568!2d-6.002891967889215!3d37.3861779552305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1a1eb7d42b%3A0x9d4fd647e46b7247!2sLa%20Giralda!5e0!3m2!1sen!2sco!4v1728075463768!5m2!1sen!2sco"
             }
         ],
         "Mediodía": [
@@ -205,9 +265,11 @@
                 "Emoji": "🌳",
                 "City": "Sevilla",
                 "Title": "Plaza del Triufo",
-                "Address": "",
+                "Address": "Plaza del Triunfo, C. Miguel Mañara, Casco Antiguo, 41004 Sevilla, Spain",
                 "Notes": "Almuerzo",
-                "Link": ""
+                "Link": "",
+                "GoogleMaps": "https://maps.app.goo.gl/VFw8tU1T9Df3fRmB7",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12680.823873723393!2d-6.00275096788998!3d37.384961055235635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126d95966052d1%3A0x91eab697f3c61dd1!2sPlaza%20del%20Triunfo!5e0!3m2!1sen!2sco!4v1728075646737!5m2!1sen!2sco"
             }
         ],
         "Tarde": [
@@ -215,19 +277,11 @@
                 "Emoji": "🌳",
                 "City": "Sevilla",
                 "Title": "Real Alcázar",
-                "Address": "",
+                "Address": "Casco Antiguo, 41004 Seville, Spain",
                 "Notes": "",
-                "Link": ""
-            }
-        ],
-        "Noche": [
-            {
-                "Emoji": "🍕",
-                "City": "Sevilla",
-                "Title": "",
-                "Address": "",
-                "Notes": "Cena",
-                "Link": ""
+                "Link": "",
+                "GoogleMaps": "https://maps.app.goo.gl/U3SBH97zu7E8UDjs7",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.286686476186!2d-5.990225699999994!3d37.3830519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c198c41a24b%3A0xbaa976bfaec1fe87!2sRoyal%20Alc%C3%A1zar%20of%20Seville!5e0!3m2!1sen!2sco!4v1728075714260!5m2!1sen!2sco"
             }
         ]
     },
@@ -237,19 +291,34 @@
                 "Emoji": "⛪",
                 "City": "Sevilla",
                 "Title": "Plaza de España",
-                "Address": "",
+                "Address": "Av. Isabel la Católica, 41004 Sevilla, Spain",
                 "Notes": "",
-                "Link": ""
+                "Link": "",
+                "GoogleMaps": "https://maps.app.goo.gl/6m6VnYastPQaDaDR8",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12681.146825820197!2d-5.997934409004759!3d37.383051427446645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126ea76eb6b10f%3A0x8926f5e874d3da39!2sPlaza%20de%20Espa%C3%B1a!5e0!3m2!1sen!2sco!4v1728075862641!5m2!1sen!2sco"
+            },
+            {
+                "Emoji": "⛪",
+                "City": "Sevilla",
+                "Title": "Parque de María Luisa",
+                "Address": "P.º de las Delicias, s/n, 41013 Sevilla, Spain",
+                "Notes": "",
+                "Link": "",
+                "GoogleMaps": "https://maps.app.goo.gl/RPyxP9kCgh4Y2EKK9",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25365.35795535842!2d-6.008069971673201!3d37.37399062111329!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c241d1a35ef%3A0x68b6f2f07d1ee842!2sParque%20de%20Mar%C3%ADa%20Luisa!5e0!3m2!1sen!2sco!4v1728075954587!5m2!1sen!2sco"
             }
         ],
         "Mediodía": [
             {
                 "Emoji": "🌳",
                 "City": "Sevilla",
-                "Title": "Parque de María Luisa o el barrio cercano de Triana",
-                "Address": "",
+                "Title": "Triana",
+                "Subtitle": "Almuerzo en La Barca de Calderón",
+                "Address": "Paseo de Ntra. Sra. de la O, 41010 Sevilla, Spain",
                 "Notes": "Almuerzo",
-                "Link": ""
+                "Link": "",
+                "GoogleMaps": "https://maps.app.goo.gl/xoYNuxJDJkch6BcZA",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6340.171958785217!2d-6.0054701!3d37.3877989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126d345c06878d%3A0xccf79dc2d3cb31fe!2sLa%20Barca%20de%20Calder%C3%B3n!5e0!3m2!1sen!2sco!4v1728076163142!5m2!1sen!2sco"
             }
         ],
         "Tarde": [
@@ -257,9 +326,11 @@
                 "Emoji": "⛪",
                 "City": "Sevilla",
                 "Title": "Torre del Oro",
-                "Address": "",
+                "Address": "The Golden Tower, P.º de Cristóbal Colón, s/n, Casco Antiguo, 41001 Sevilla, Spain",
                 "Notes": "",
-                "Link": ""
+                "Link": "",
+                "GoogleMaps": "https://maps.app.goo.gl/NCYCwKTS6PCCE8UX6",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12681.248119793368!2d-6.006591067891371!3d37.382452455246266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c16af11db65%3A0x7504999e77d24fe5!2sTorre%20del%20Oro!5e0!3m2!1sen!2sco!4v1728076323096!5m2!1sen!2sco"
             }
         ],
         "Tardenoche": [
@@ -267,6 +338,7 @@
                 "Emoji": "💃",
                 "City": "Sevilla",
                 "Title": "Flamenco",
+                "Subtitle": "En alguna plaza o parque",
                 "Address": "",
                 "Notes": "",
                 "Link": ""
@@ -274,15 +346,30 @@
         ]
     },
     "Jueves 17 de Octubre": {
+        "Mediodía": [
+            {
+                "Emoji": "🏠",
+                "City": "Sevilla",
+                "Title": "Checkout Airbnb",
+                "Subtitle": "A las 11:00 horas",
+                "Address": "",
+                "Notes": "",
+                "Link": ""
+            }
+        ],
         "Tarde": [
             {
                 "Emoji": "✈️",
                 "City": "Sevilla",
                 "Title": "Vuelo a Porto",
                 "Subtitle": "1hr 15m, 16:20 - 16:35",
-                "Address": "Aeropuerto Sevilla",
-                "Notes": "Reserva: UQWMWD",
-                "Link": "https://www.ryanair.com/gb/en/trip/manage/98bcdefa-d7e0-4782-ae81-98e0778d1b9a"
+                "Address": "A-4, Km. 532, 41020 Sevilla, Spain",
+                "Booking": "https://www.ryanair.com/gb/en/trip/manage/98bcdefa-d7e0-4782-ae81-98e0778d1b9a",
+                "Booking_Number": "UQWMWD",
+                "GoogleMaps": "https://maps.app.goo.gl/EmraYDkFEPbM7WtZ9",
+                "Link": "",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d89106.03453809558!2d-5.935426208518341!3d37.387850461894594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd12661c8d849bb9%3A0x1527e77a0fb273a!2sSeville%20Airport!5e0!3m2!1sen!2sco!4v1728076586405!5m2!1sen!2sco",
+                "Notes": "60 minutos desde el Airbnb hasta el aeropuerto"
             },
             {
                 "Emoji": "🏠",
@@ -515,10 +602,12 @@
             {
                 "Emoji": "🍕",
                 "City": "Madrid",
-                "Title": "",
+                "Title": "--",
+                "Subtitle": "--",
                 "Address": "",
                 "Notes": "Almuerzo",
-                "Link": ""
+                "Link": "https://maps.app.goo.gl/zAn9hfY2czy4MCwV9",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4197.146543795686!2d-3.711423827916664!3d40.41484179530153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42287921196e2d%3A0x162fe6d34dd190e8!2sMercado%20de%20San%20Miguel!5e0!3m2!1sen!2sco!4v1727990671554!5m2!1sen!2sco"
             }
         ],
         "Tarde": [
@@ -535,10 +624,11 @@
             {
                 "Emoji": "🍕",
                 "City": "Madrid",
-                "Title": "",
-                "Address": "",
+                "Title": "Cena en la Gran Vía",
+                "Address": "Gran Vía, 14, Centro, 28013 Madrid, Spain",
                 "Notes": "Cena",
-                "Link": ""
+                "GoogleMaps": "https://maps.app.goo.gl/j6uM8gkpg6Yp1u7Y9",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12150.030332864124!2d-3.7094423660835796!3d40.419758144925396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42299d170ea649%3A0xd4b8d40209a557c9!2sLa%20Catorce%20Sky%20Bar!5e0!3m2!1sen!2sco!4v1727991504643!5m2!1sen!2sco"
             }
         ]
     },
@@ -565,12 +655,14 @@
         ],
         "Tarde": [
             {
-                "Emoji": "⛪",
+                "Emoji": "🛍️",
                 "City": "Madrid",
-                "Title": "",
-                "Address": "",
-                "Notes": "",
-                "Link": ""
+                "Title": "Mercado de San Miguel",
+                "Subtitle": "Compras y almorzar",
+                "Address": "Pl. de San Miguel, s/n, Centro, 28005 Madrid, Spain",
+                "Notes": "Almuerzo",
+                "Link": "https://maps.app.goo.gl/zAn9hfY2czy4MCwV9",
+                "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4197.146543795686!2d-3.711423827916664!3d40.41484179530153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42287921196e2d%3A0x162fe6d34dd190e8!2sMercado%20de%20San%20Miguel!5e0!3m2!1sen!2sco!4v1727990671554!5m2!1sen!2sco"
             }
         ],
         "Noche": [
@@ -579,7 +671,7 @@
                 "City": "Madrid",
                 "Title": "Night out",
                 "Address": "",
-                "Notes": "",
+                "Notes": "Cenar en calle Ponzano",
                 "Link": ""
             }
         ]
