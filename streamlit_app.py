@@ -1,5 +1,7 @@
 import streamlit as st
 import json
+import streamlit.components.v1 as components
+import re
 
 appTitle = "Itinerario Europa 2024"
 
@@ -18,6 +20,9 @@ st.title(appTitle)
 
 with open("itinerary_europe_2024.json", "r") as f:
     itinerary_json = json.load(f)
+
+with open("images.json", "r") as f:
+    images_json = json.load(f)
 
 bg_colors = {
     "Mañana": "#E2B173",
@@ -75,7 +80,7 @@ card_style = """
         margin: 5px 0;
     }
 
-    .iframe-container {
+    .iframe-container, image-container {
         width: 100%;
         height: 300px;
     }
@@ -85,11 +90,11 @@ card_style = """
 st.markdown(card_style, unsafe_allow_html=True)
 
 st.sidebar.write("Días disponibles:")
-for day in itinerary_json.keys():
-    st.sidebar.markdown(f'<a href="#{day}">{day}</a>', unsafe_allow_html=True)
 
 for day, schedule in itinerary_json.items():
-    st.markdown(f'<h2 id="{day}">{day}</h2>', unsafe_allow_html=True)
+    anchor = re.sub(r'[^a-zA-Z0-9 ]', '', day).replace(' ', '-').lower()
+    st.markdown(f"<h2 id='{anchor}'>{day}</h2>", unsafe_allow_html=True)
+    st.sidebar.markdown(f"[{day}](#{anchor})")
 
     for time_of_day, activities in schedule.items():
         st.subheader(f"{time_of_day.capitalize()}")
@@ -103,6 +108,14 @@ for day, schedule in itinerary_json.items():
                 card_content += f'<div class="iframe-container">'
                 card_content += f'<iframe src="{activity["Iframe"]}" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
                 card_content += f'</div>'
+
+            if 'Image' in activity and activity['Image']:
+                image_url = images_json.get(activity["Image"])
+                
+                if image_url:
+                    card_content += f'<div class="image-container">'
+                    card_content += f'<img src="{image_url["value"]}" width="100%" height="100%" />'
+                    card_content += f'</div>'
 
             card_content += f'<div class="card-header">'
 
