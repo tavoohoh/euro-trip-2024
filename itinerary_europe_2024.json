@@ -181,8 +181,7 @@
           "Address": "P.º Recaredo, 3, 45002 Toledo, Spain",
           "Notes": "Almuerzo",
           "Link": "",
-          "GoogleMaps": "https://maps.app.goo.gl/xSCCNJUbYpLqBnBw8",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6125.466666979637!2d-4.030199013915649!3d39.85780869735738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6a0b0626411c2b%3A0x6b2b8563c9d10b0d!2sTerraza%20Recaredo!5e0!3m2!1sen!2sco!4v1728073801443!5m2!1sen!2sco"
+          "GoogleMaps": "https://maps.app.goo.gl/xSCCNJUbYpLqBnBw8"
         }
       ],
       "Tarde": [
@@ -220,8 +219,7 @@
           "Address": "C. Mesón del Moro, 6, Casco Antiguo, 41003 Sevilla, Spain",
           "Notes": "Cena",
           "Link": "",
-          "GoogleMaps": "https://maps.app.goo.gl/NPQD8zfdwNxcrtgA8",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.197882512235!2d-5.990603935720826!3d37.3851523!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1bdf00614b%3A0x7d4bc82b76263ad8!2sRestaurante%20San%20Marco%20Santa%20Cruz!5e0!3m2!1sen!2sco!4v1728075301646!5m2!1sen!2sco"
+          "GoogleMaps": "https://maps.app.goo.gl/NPQD8zfdwNxcrtgA8"
         }
       ]
     },
@@ -235,7 +233,7 @@
           "GoogleMaps": "https://maps.app.goo.gl/vfevxiw7EmPMQnq67",
           "Notes": "",
           "Link": "",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12680.677886595278!2d-6.003385067889534!3d37.385824255232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1755b54781%3A0xe49da05de71e6de5!2sCatedral%20de%20Sevilla!5e0!3m2!1sen!2sco!4v1728075395186!5m2!1sen!2sco"
+          "Image": "CATEDRAL_SEVILLA"
         },
         {
           "Emoji": "⛪",
@@ -244,8 +242,7 @@
           "Address": "Av. de la Constitución, s/n, Casco Antiguo, 41004 Sevilla, Spain",
           "GoogleMaps": "https://maps.app.goo.gl/y4NNUY4G4YkPSMDn7",
           "Notes": "",
-          "Link": "",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12680.618066895568!2d-6.002891967889215!3d37.3861779552305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1a1eb7d42b%3A0x9d4fd647e46b7247!2sLa%20Giralda!5e0!3m2!1sen!2sco!4v1728075463768!5m2!1sen!2sco"
+          "Link": ""
         }
       ],
       "Mediodía": [
@@ -256,8 +253,7 @@
           "Address": "Plaza del Triunfo, C. Miguel Mañara, Casco Antiguo, 41004 Sevilla, Spain",
           "Notes": "Almuerzo",
           "Link": "",
-          "GoogleMaps": "https://maps.app.goo.gl/VFw8tU1T9Df3fRmB7",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12680.823873723393!2d-6.00275096788998!3d37.384961055235635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126d95966052d1%3A0x91eab697f3c61dd1!2sPlaza%20del%20Triunfo!5e0!3m2!1sen!2sco!4v1728075646737!5m2!1sen!2sco"
+          "GoogleMaps": "https://maps.app.goo.gl/VFw8tU1T9Df3fRmB7"
         }
       ],
       "Tarde": [
@@ -269,7 +265,7 @@
           "Notes": "",
           "Link": "",
           "GoogleMaps": "https://maps.app.goo.gl/U3SBH97zu7E8UDjs7",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.286686476186!2d-5.990225699999994!3d37.3830519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c198c41a24b%3A0xbaa976bfaec1fe87!2sRoyal%20Alc%C3%A1zar%20of%20Seville!5e0!3m2!1sen!2sco!4v1728075714260!5m2!1sen!2sco"
+          "Image": "SEVILLA_ALCAZAR"
         }
       ]
     },
@@ -282,8 +278,7 @@
           "Address": "Av. Isabel la Católica, 41004 Sevilla, Spain",
           "Notes": "",
           "Link": "",
-          "GoogleMaps": "https://maps.app.goo.gl/6m6VnYastPQaDaDR8",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12681.146825820197!2d-5.997934409004759!3d37.383051427446645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126ea76eb6b10f%3A0x8926f5e874d3da39!2sPlaza%20de%20Espa%C3%B1a!5e0!3m2!1sen!2sco!4v1728075862641!5m2!1sen!2sco"
+          "GoogleMaps": "https://maps.app.goo.gl/6m6VnYastPQaDaDR8"
         },
         {
           "Emoji": "⛪",
@@ -292,21 +287,19 @@
           "Address": "P.º de las Delicias, s/n, 41013 Sevilla, Spain",
           "Notes": "",
           "Link": "",
-          "GoogleMaps": "https://maps.app.goo.gl/RPyxP9kCgh4Y2EKK9",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25365.35795535842!2d-6.008069971673201!3d37.37399062111329!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c241d1a35ef%3A0x68b6f2f07d1ee842!2sParque%20de%20Mar%C3%ADa%20Luisa!5e0!3m2!1sen!2sco!4v1728075954587!5m2!1sen!2sco"
+          "GoogleMaps": "https://maps.app.goo.gl/RPyxP9kCgh4Y2EKK9"
         }
       ],
       "Mediodía": [
         {
           "Emoji": "🌳",
           "City": "Sevilla",
-          "Title": "Triana",
-          "Subtitle": "Almuerzo en La Barca de Calderón",
+          "Title": "La Barca de Calderón",
+          "Subtitle": "Almuerzo en la Triana",
           "Address": "Paseo de Ntra. Sra. de la O, 41010 Sevilla, Spain",
           "Notes": "Almuerzo",
           "Link": "",
-          "GoogleMaps": "https://maps.app.goo.gl/xoYNuxJDJkch6BcZA",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6340.171958785217!2d-6.0054701!3d37.3877989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126d345c06878d%3A0xccf79dc2d3cb31fe!2sLa%20Barca%20de%20Calder%C3%B3n!5e0!3m2!1sen!2sco!4v1728076163142!5m2!1sen!2sco"
+          "GoogleMaps": "https://maps.app.goo.gl/xoYNuxJDJkch6BcZA"
         }
       ],
       "Tarde": [
@@ -318,7 +311,7 @@
           "Notes": "",
           "Link": "",
           "GoogleMaps": "https://maps.app.goo.gl/NCYCwKTS6PCCE8UX6",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12681.248119793368!2d-6.006591067891371!3d37.382452455246266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c16af11db65%3A0x7504999e77d24fe5!2sTorre%20del%20Oro!5e0!3m2!1sen!2sco!4v1728076323096!5m2!1sen!2sco"
+          "Image": "TORRE_ORO"
         }
       ],
       "Tardenoche": [
@@ -328,7 +321,7 @@
           "Title": "Flamenco",
           "Subtitle": "En alguna plaza o parque",
           "Address": "",
-          "Notes": "",
+          "Notes": "Preguntar a locales en donde podemos ver un show de flamenco",
           "Link": ""
         }
       ]
@@ -381,7 +374,7 @@
           "GoogleMaps": "https://maps.app.goo.gl/AT5QG9JWEd4LTbsD9",
           "Notes": "",
           "Link": "",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.7509294918304!2d-8.612023423327337!3d41.139962911305005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2464e75cfd46d3%3A0xc25b40cf99456aab!2sLu%C3%ADs%20I%20Bridge!5e0!3m2!1sen!2sco!4v1728157168319!5m2!1sen!2sco"
+          "Image": "PUENTE_DOM_LUIS"
         }
       ],
       "Noche": [
@@ -393,52 +386,12 @@
           "Address": "Ribeira, Porto, Portugal",
           "GoogleMaps": "https://maps.app.goo.gl/2u1aZHpWXk3EgMYY6",
           "Notes": "Acá podemos aprovechar para cenar",
-          "Link": "",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6009.1800736326295!2d-8.614309101999309!3d41.143474714848324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2464e724adc789%3A0xa72dd2f0f7d62f0!2sRibeira%2C%20Porto%2C%20Portugal!5e0!3m2!1sen!2sco!4v1728157236134!5m2!1sen!2sco"
+          "Link": ""
         }
       ]
     },
     "Viernes 18 de Octubre": {
       "Mañana": [
-        {
-          "Emoji": "⛪",
-          "City": "Porto",
-          "Title": "Estación de São Bento",
-          "Subtitle": "Famosa por sus azulejos que narran la historia de Portugal",
-          "Address": "Praça de Almeida Garrett, 4000-069 Porto, Portugal",
-          "GoogleMaps": "https://maps.app.goo.gl/mfEynRfGGoQZhWTu7",
-          "Notes": "Tomarse el tiempo para ver los detalles de los azulejos",
-          "Link": "",
-          "Iframe": "",
-          "Image": "ESTACION_DE_SAO_BENTO"
-        },
-        {
-          "Emoji": "⛪",
-          "City": "Porto",
-          "Title": "Catedral Sé de Oporto",
-          "Subtitle": "Catedral gótica con impresionantes vistas de la ciudad",
-          "Address": "Terreiro da Sé, 4050-573 Porto, Portugal",
-          "GoogleMaps": "https://maps.app.goo.gl/umGEAtpnamu9hrAz6",
-          "Notes": "Visita el mirador para una gran vista de Oporto",
-          "Link": "",
-          "Iframe": "",
-          "Image": "CATEDRA_SE_DE_OPORTO"
-        }
-      ],
-      "Mediodía": [
-        {
-          "Emoji": "🍕",
-          "City": "Porto",
-          "Title": "Muro do Bacalhau",
-          "Subtitle": "Restaurante portugues",
-          "Address": "Cais da Estiva 122, 4050-080 Porto, Portugal",
-          "Notes": "",
-          "Link": "",
-          "GoogleMaps": "https://maps.app.goo.gl/nhpnPHYgCVSJ3tCA6",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6009.482820005367!2d-8.619986441308594!3d41.14017070000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2465d3408b47a5%3A0x5d5be2e00b9cadd!2sMuro%20do%20Bacalhau!5e0!3m2!1sen!2sco!4v1728234691349!5m2!1sen!2sco"
-        }
-      ],
-      "Tarde": [
         {
           "Emoji": "⛪",
           "City": "Porto",
@@ -450,6 +403,44 @@
           "Link": "",
           "Iframe": "",
           "Image": "PALACIO_DE_LA_BOLSA"
+        },
+        {
+          "Emoji": "⛪",
+          "City": "Porto",
+          "Title": "Estación de São Bento",
+          "Subtitle": "Famosa por sus azulejos que narran la historia de Portugal",
+          "Address": "Praça de Almeida Garrett, 4000-069 Porto, Portugal",
+          "GoogleMaps": "https://maps.app.goo.gl/mfEynRfGGoQZhWTu7",
+          "Notes": "Tomarse el tiempo para ver los detalles de los azulejos",
+          "Link": "",
+          "Iframe": "",
+          "Image": "ESTACION_DE_SAO_BENTO"
+        }
+      ],
+      "Mediodía": [
+        {
+          "Emoji": "🍕",
+          "City": "Porto",
+          "Title": "Muro do Bacalhau",
+          "Subtitle": "Restaurante portugues",
+          "Address": "Cais da Estiva 122, 4050-080 Porto, Portugal",
+          "Notes": "",
+          "Link": "",
+          "GoogleMaps": "https://maps.app.goo.gl/nhpnPHYgCVSJ3tCA6"
+        }
+      ],
+      "Tarde": [
+        {
+          "Emoji": "⛪",
+          "City": "Porto",
+          "Title": "Catedral Sé de Oporto",
+          "Subtitle": "Catedral gótica con impresionantes vistas de la ciudad",
+          "Address": "Terreiro da Sé, 4050-573 Porto, Portugal",
+          "GoogleMaps": "https://maps.app.goo.gl/umGEAtpnamu9hrAz6",
+          "Notes": "Visita el mirador para una gran vista de Oporto",
+          "Link": "",
+          "Iframe": "",
+          "Image": "CATEDRA_SE_DE_OPORTO"
         },
         {
           "Emoji": "🌳",
@@ -473,8 +464,7 @@
           "Address": "Rua das Taipas 94 a 96, 4050-598 Porto, Portugal",
           "Notes": "",
           "Link": "",
-          "GoogleMaps": "https://maps.app.goo.gl/AaA5vd8C1V61fL496",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6009.113970564255!2d-8.625442730224634!3d41.14419610000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd246576f2ea8a6b%3A0x7d8117734915747b!2sThe%20Door!5e0!3m2!1ses!2sco!4v1728235518562!5m2!1ses!2sco"
+          "GoogleMaps": "https://maps.app.goo.gl/AaA5vd8C1V61fL496"
         }
       ]
     },

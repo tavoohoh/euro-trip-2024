@@ -21,8 +21,15 @@ st.title(appTitle)
 with open("itinerary_europe_2024.json", "r") as f:
     itinerary_json = json.load(f)
 
-with open("images.json", "r") as f:
-    images_json = json.load(f)
+def card_image(path):
+    try:
+        with open(f"images/{path}.json", "r") as f:
+            image_json = json.load(f)
+
+            return image_json["value"]
+    except:
+        print(f"Path for image {path} not found")
+
 
 bg_colors = {
     "Mañana": "#E2B173",
@@ -114,11 +121,11 @@ for day, schedule in itinerary_json.items():
                 card_content += f'</div>'
 
             if 'Image' in activity and activity['Image']:
-                image_url = images_json.get(activity["Image"])
-                
-                if image_url:
+                image = card_image(activity["Image"])
+
+                if image:
                     card_content += f'<div class="image-container">'
-                    card_content += f'<img src="{image_url["value"]}" width="100%" height="100%" />'
+                    card_content += f'<img src="{image}" />'
                     card_content += f'</div>'
 
             card_content += f'<div class="card-header">'
