@@ -35,8 +35,7 @@
           "Address": "Calle de Atocha, 118 1º Izquierda, Madrid, Comunidad de Madrid 28012, Spain",
           "Notes": "",
           "GoogleMaps": "https://maps.app.goo.gl/z5CABaFbcnKLnGxr6",
-          "Link": "",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3037.9807243309187!2d-3.6930278000000003!3d40.40927779999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDDCsDI0JzMzLjQiTiAzwrA0MSczNC45Ilc!5e0!3m2!1sen!2sco!4v1727969272868!5m2!1sen!2sco"
+          "Link": ""
         }
       ],
       "Tardenoche": [
@@ -49,7 +48,7 @@
           "Notes": "Paseo por el parque y luego cenamos",
           "GoogleMaps": "https://maps.app.goo.gl/4Bc3ioePELcC8e7V6",
           "Link": "",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d759.3971070366022!2d-3.680263569656085!3d40.41796754317735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42261ecb3ea321%3A0xb34c68421959d724!2sFlorida%20Park!5e0!3m2!1sen!2sco!4v1727969682781!5m2!1sen!2sco"
+          "Image": "RETIRO"
         }
       ]
     },
@@ -63,7 +62,7 @@
           "Address": "Retiro, 28014 Madrid, Spain",
           "Notes": "Mejor comprar entradas con anticipación",
           "GoogleMaps": "https://maps.app.goo.gl/jLJeT972Yjyw56mx5",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3127.3231260241714!2d-3.693747394846622!3d40.41111026259575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42289d66d8a2ed%3A0x1094f07d93ad885a!2sMuseo%20Nacional%20del%20Prado!5e0!3m2!1sen!2sco!4v1727969726241!5m2!1sen!2sco"
+          "Image": "PRADO"
         }
       ],
       "Mediodía": [
@@ -73,8 +72,7 @@
           "Title": "El Rastro",
           "Subtitle": "Shopping y almorzar",
           "Address": "Centro, 28005 Madrid, Spain",
-          "GoogleMaps": "https://maps.app.goo.gl/CnGEg2UKBJfntPKd6",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12151.695322880152!2d-3.717588966089212!3d40.410538144949044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4227006b95e439%3A0x217532b081de014!2sEl%20Rastro!5e0!3m2!1sen!2sco!4v1727990951270!5m2!1sen!2sco"
+          "GoogleMaps": "https://maps.app.goo.gl/CnGEg2UKBJfntPKd6"
         }
       ],
       "Noche": [
@@ -85,8 +83,7 @@
           "Subtitle": "Bar de tapas en Madrid",
           "Address": "C. de Colón, 13, Centro, 28004 Madrid, Spain",
           "Notes": "Cena",
-          "GoogleMaps": "https://maps.app.goo.gl/GCQ6CLtX2hbGHKoG6",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12149.303194227316!2d-3.712037868533468!3d40.42378418004907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd422888128612f3%3A0x85881175e523c211!2sBodega%20de%20la%20Ardosa!5e0!3m2!1sen!2sco!4v1727991407758!5m2!1sen!2sco"
+          "GoogleMaps": "https://maps.app.goo.gl/GCQ6CLtX2hbGHKoG6"
         }
       ]
     },
@@ -111,8 +108,7 @@
           "Subtitle": "Para almorzar antes de ir al Airbnb",
           "Address": "C. de Sta. Fe, 1, 45001 Toledo, Spain",
           "GoogleMaps": "https://maps.app.goo.gl/5z8QF2SMnkuRo5Eg8",
-          "Notes": "Almuerzo",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12250.548590067605!2d-4.031106568848719!3d39.859963917708335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6a0ba577248b69%3A0xec6fecb0429e35b1!2sEl%20Tr%C3%A9bol!5e0!3m2!1sen!2sco!4v1728003865054!5m2!1sen!2sco"
+          "Notes": "Almuerzo"
         }
       ],
       "Tarde": [
@@ -126,8 +122,7 @@
           "Address": "Calle Armas, 13 3º, Toledo, Castilla-La Mancha 45001, Spain",
           "Notes": "<b>Check In:</b> 15:00",
           "GoogleMaps": "https://maps.app.goo.gl/z5CABaFbcnKLnGxr6",
-          "Link": "",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3062.619505875135!2d-4.0211291!3d39.8603592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMznCsDUxJzM3LjMiTiA0wrAwMScxNi4xIlc!5e0!3m2!1sen!2sco!4v1728003286367!5m2!1sen!2sco"
+          "Link": ""
         }
       ],
       "Tardenoche": [
@@ -139,8 +134,7 @@
           "Address": "Ctra. Circunvalación, 19, 45004 Toledo, Spain",
           "GoogleMaps": "https://maps.app.goo.gl/kjSVyN7Atf1aWgZk8",
           "Link": "",
-          "Notes": "",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12252.077782069791!2d-4.028805155081567!3d39.85139726680853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6a0bd989262f99%3A0x2bb25341782acdb!2sRestaurante%20La%20Ermita%C3%B1a%20%2F%20Mirador%20Gastron%C3%B3mico%20de%20Toledo!5e0!3m2!1sen!2sco!4v1728003961392!5m2!1sen!2sco"
+          "Notes": ""
         }
       ]
     },
@@ -150,23 +144,23 @@
           "Emoji": "⛪",
           "City": "Toledo",
           "Title": "Catedral de Toledo",
-          "Subtitle": "",
+          "Subtitle": "Casa de culto católica romana inspirada en la Catedral de Bourges, que incorpora algunas características mudéjares.",
           "Address": "Calle Cardenal Cisneros, 1, 45002 Toledo, Spain",
           "Notes": "",
           "Link": "",
           "GoogleMaps": "https://maps.app.goo.gl/8ySjFGKuwNxkeGWm7",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12252.077782069791!2d-4.0288051550815425!3d39.85139726680853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6a0ba663d233eb%3A0x7d339edda10a36ee!2sSanta%20Iglesia%20Catedral%20Primada%20de%20Toledo!5e0!3m2!1sen!2sco!4v1728004126680!5m2!1sen!2sco"
+          "Image": "CATEDRAL_TOLEDO"
         },
         {
           "Emoji": "⛪",
           "City": "Toledo",
           "Title": "Alcázar de Toledo",
-          "Subtitle": "",
+          "Subtitle": "Imponente edificio del siglo XVI y antiguo palacio real fortificado, que ahora alberga un museo militar.",
           "Address": "C. de la Union, s/n, 45001 Toledo, Spain",
           "Notes": "",
           "Link": "",
           "GoogleMaps": "https://maps.app.goo.gl/iGQs46ej5qFoz8q39",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12250.940149431763!2d-4.0307744688499145!3d39.85777051824112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6a0ba4554d32ff%3A0xc5d940fb5fb95c60!2sAlc%C3%A1zar%20de%20Toledo!5e0!3m2!1sen!2sco!4v1728073555021!5m2!1sen!2sco"
+          "Image": "ALCAZAR"
         }
       ],
       "Mediodía": [
@@ -177,16 +171,15 @@
           "Subtitle": "A las 12:00 horas",
           "Notes": "",
           "GoogleMaps": "",
-          "Link": "",
-          "Iframe": ""
+          "Link": ""
         },
         {
           "Emoji": "🍕",
           "City": "Toledo",
           "Title": "Terraza Recaredo",
-          "Subtitle": "",
+          "Subtitle": "Almuerzo antes de partir a Sevilla",
           "Address": "P.º Recaredo, 3, 45002 Toledo, Spain",
-          "Notes": "",
+          "Notes": "Almuerzo",
           "Link": "",
           "GoogleMaps": "https://maps.app.goo.gl/xSCCNJUbYpLqBnBw8",
           "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6125.466666979637!2d-4.030199013915649!3d39.85780869735738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6a0b0626411c2b%3A0x6b2b8563c9d10b0d!2sTerraza%20Recaredo!5e0!3m2!1sen!2sco!4v1728073801443!5m2!1sen!2sco"
@@ -215,8 +208,7 @@
           "Address": "Calle San Clemente, 5 2-DCHA, Sevilla, Andalucía 41004, Spain",
           "Notes": "El check in es a las 15:00 horas",
           "GoogleMaps": "https://maps.app.goo.gl/bXKPkTSFKJyvtL988",
-          "Link": "",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3170.097780573395!2d-5.9859419!3d37.3875198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDIzJzE1LjEiTiA1wrA1OScwOS40Ilc!5e0!3m2!1sen!2sco!4v1728074844513!5m2!1sen!2sco"
+          "Link": ""
         }
       ],
       "Noche": [
@@ -346,7 +338,7 @@
         {
           "Emoji": "🏠",
           "City": "Sevilla",
-          "Title": "Checkout Airbnb",
+          "Title": "Check Out Airbnb",
           "Subtitle": "A las 11:00 horas",
           "Address": "",
           "Notes": "",
@@ -376,8 +368,7 @@
           "Notes": "<b>Check In</b>: 16:00",
           "Link": "",
           "Booking": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMBCSA2ACK",
-          "Booking_Number": "Airbnb",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3004.239954405739!2d-8.602630523326907!3d41.15111511061642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDA5JzA0LjAiTiA4wrAzNicwMC4yIlc!5e0!3m2!1sen!2sco!4v1728159862708!5m2!1sen!2sco"
+          "Booking_Number": "Airbnb"
         }
       ],
       "Tardenoche": [
@@ -525,8 +516,7 @@
           "Address": "112 ter Avenue de Suffren, Paris, u00cele-de-France 75015, France",
           "Notes": "48u00b0 50' 55.2052\" N 2u00b0 18' 15.9516\" E",
           "Link": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HM3NY5PNMB",
-          "GoogleMaps": "",
-          "Iframe": ""
+          "GoogleMaps": ""
         }
       ],
       "Tardenoche": [
@@ -701,8 +691,7 @@
           "Address": "Calle Mayor, 44, Madrid, Comunidad de Madrid 28013, Spain",
           "Notes": "40u00b0 24' 57.7746\" N 3u00b0 42' 32.0249\" W",
           "Link": "",
-          "GoogleMaps": "",
-          "Iframe": ""
+          "GoogleMaps": ""
         }
       ],
       "Noche": [

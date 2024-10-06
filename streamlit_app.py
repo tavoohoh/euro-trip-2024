@@ -80,9 +80,13 @@ card_style = """
         margin: 5px 0;
     }
 
-    .iframe-container, image-container {
+    .iframe-container, .image-container {
         width: 100%;
-        height: 300px;
+        height: 260px;
+    }
+
+    .image-container img {
+        object-fit: cover;
     }
     </style>
 """
