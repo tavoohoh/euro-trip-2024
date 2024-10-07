@@ -484,29 +484,16 @@
           "Iframe": ""
         }
       ],
-      "Mediodía": [
-        {
-          "Emoji": "🍕",
-          "City": "Paris",
-          "Title": "",
-          "Subtitle": "",
-          "Address": "",
-          "Notes": "Almuerzo",
-          "Link": "",
-          "GoogleMaps": "",
-          "Iframe": ""
-        }
-      ],
       "Tarde": [
         {
           "Emoji": "🏠",
           "City": "Paris",
           "Title": "Airbnb",
-          "Subtitle": "",
+          "Subtitle": "Check in a las 15:00 horas",
           "Address": "112 ter Avenue de Suffren, Paris, u00cele-de-France 75015, France",
-          "Notes": "48u00b0 50' 55.2052\" N 2u00b0 18' 15.9516\" E",
+          "Notes": "",
           "Link": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HM3NY5PNMB",
-          "GoogleMaps": ""
+          "GoogleMaps": "https://maps.app.goo.gl/pCJe8MW4KfAuW5wg9"
         }
       ],
       "Tardenoche": [
@@ -514,79 +501,26 @@
           "Emoji": "⛪",
           "City": "Paris",
           "Title": "Torre Eiffel",
-          "Subtitle": "",
-          "Address": "",
-          "Notes": "",
+          "Subtitle": "La icónica torre de hierro forjado de 1889 de Gustave Eiffel, con escaleras y ascensores que llevan a plataformas de observación.",
+          "Address": "Av. Gustave Eiffel, 75007 Paris, France",
+          "Notes": "Podemos estar en los alrededores de la torre y esperar a que se enciendan las luces",
           "Link": "",
-          "GoogleMaps": "",
-          "Iframe": ""
-        }
-      ],
-      "Noche": [
-        {
-          "Emoji": "🍕",
-          "City": "Paris",
-          "Title": "",
-          "Subtitle": "",
-          "Address": "",
-          "Notes": "Cena",
-          "Link": "",
-          "GoogleMaps": "",
-          "Iframe": ""
+          "GoogleMaps": "https://maps.app.goo.gl/f8SFVw2FprA755hq6"
         }
       ]
     },
     "Domingo 20 de Octubre": {
-      "Mañana": [
+      "Todo el día": [
         {
           "Emoji": "⛪",
           "City": "Paris",
           "Title": "Versalles",
-          "Subtitle": "",
-          "Address": "",
-          "Notes": "",
+          "Subtitle": "Inmenso palacio del siglo XVIII con apartamentos dorados, Salón de los Espejos con lámparas de araña y espectáculo de fuentes.",
+          "Address": "Place d'Armes, 78000 Versailles, France",
+          "Notes": "Tenemos reserva a las 11:30, mejor llegar antes</br><b>Booking con Headout:</b> 20908313",
           "Link": "",
-          "GoogleMaps": "",
-          "Iframe": ""
-        }
-      ],
-      "Mediodía": [
-        {
-          "Emoji": "🍕",
-          "City": "Paris",
-          "Title": "Versalles",
-          "Subtitle": "",
-          "Address": "",
-          "Notes": "Almuerzo",
-          "Link": "",
-          "GoogleMaps": "",
-          "Iframe": ""
-        }
-      ],
-      "Tarde": [
-        {
-          "Emoji": "⛪",
-          "City": "Paris",
-          "Title": "Versalles",
-          "Subtitle": "",
-          "Address": "",
-          "Notes": "",
-          "Link": "",
-          "GoogleMaps": "",
-          "Iframe": ""
-        }
-      ],
-      "Noche": [
-        {
-          "Emoji": "🍕",
-          "City": "Paris",
-          "Title": "",
-          "Subtitle": "",
-          "Address": "",
-          "Notes": "Cena",
-          "Link": "",
-          "GoogleMaps": "",
-          "Iframe": ""
+          "GoogleMaps": "https://maps.app.goo.gl/tHHZKCmRhrziaWJB6",
+          "Image": "VERSAILLES"
         }
       ]
     },
@@ -595,52 +529,49 @@
         {
           "Emoji": "⛪",
           "City": "Paris",
-          "Title": "Afueras del museo Louvre",
-          "Subtitle": "",
-          "Address": "",
-          "Notes": "",
+          "Title": "Louvre",
+          "Subtitle": "Afueras o si queremos podemos entrar",
+          "Address": "75001 Paris, France",
+          "Notes": "Podemos hacer un recorrido por esta zona o entrar al museo",
           "Link": "",
-          "GoogleMaps": "",
-          "Iframe": ""
+          "GoogleMaps": "https://maps.app.goo.gl/gFh3ayCtRefuc7769",
+          "Image": "LOUVRE"
         }
       ],
       "Mediodía": [
         {
           "Emoji": "🍕",
           "City": "Paris",
-          "Title": "Cedric Grolet",
-          "Subtitle": "",
-          "Address": "",
+          "Title": "Cedric Grolet o cercanias",
+          "Subtitle": "Podemos intentar comprar postre en este restaurante virál o comer en las cercanias",
+          "Address": "6 Rue de Castiglione, 75001 Paris, France",
           "Notes": "Almuerzo",
           "Link": "",
-          "GoogleMaps": "",
-          "Iframe": ""
+          "GoogleMaps": "https://maps.app.goo.gl/VDX6HQE4gFPLuvMa8"
         }
       ],
       "Tarde": [
         {
           "Emoji": "🌳",
           "City": "Paris",
-          "Title": "Jardines de Luxemburgo",
-          "Subtitle": "",
-          "Address": "",
+          "Title": "Jardin du Luxembourg",
+          "Subtitle": "Parque del siglo XVII con jardines de trazado formal, árboles plantados con motivos y estatuas sobre pedestales.",
+          "Address": "75006 Paris, France",
           "Notes": "",
           "Link": "",
-          "GoogleMaps": "",
-          "Iframe": ""
+          "GoogleMaps": "https://maps.app.goo.gl/prMBVkTtuW2zrp1R7"
         }
       ],
       "Noche": [
         {
           "Emoji": "🍕",
           "City": "Paris",
-          "Title": "",
-          "Subtitle": "",
-          "Address": "",
-          "Notes": "Cena",
+          "Title": "Francette",
+          "Subtitle": "Restaurante de lujo, situado en una barcaza a orillas del Sena, que ofrece carpaccio, ostras y vistas a la Torre Eiffel.",
+          "Address": "1 Port de Suffren, 75007 Paris, France",
+          "Notes": "Última noche en Paris. Cena frente a la torre y el rio. Reserva a las 19:30",
           "Link": "",
-          "GoogleMaps": "",
-          "Iframe": ""
+          "GoogleMaps": "https://maps.app.goo.gl/ntpLVkVRahNHkgkM6"
         }
       ]
     },
@@ -660,28 +591,17 @@
           "Iframe": ""
         }
       ],
-      "Mediodía": [
-        {
-          "Emoji": "🍕",
-          "City": "Madrid",
-          "Title": "--",
-          "Subtitle": "--",
-          "Address": "",
-          "Notes": "Almuerzo",
-          "Link": "https://maps.app.goo.gl/zAn9hfY2czy4MCwV9",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4197.146543795686!2d-3.711423827916664!3d40.41484179530153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42287921196e2d%3A0x162fe6d34dd190e8!2sMercado%20de%20San%20Miguel!5e0!3m2!1sen!2sco!4v1727990671554!5m2!1sen!2sco"
-        }
-      ],
       "Tarde": [
         {
           "Emoji": "🏠",
           "City": "Madrid",
           "Title": "Airbnb",
-          "Subtitle": "",
+          "Subtitle": "50 minutos en tren del aeropuerto",
           "Address": "Calle Mayor, 44, Madrid, Comunidad de Madrid 28013, Spain",
-          "Notes": "40u00b0 24' 57.7746\" N 3u00b0 42' 32.0249\" W",
-          "Link": "",
-          "GoogleMaps": ""
+          "Notes": "El check in es a las 15:00 horas",
+          "Booking": "https://www.airbnb.com/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMM4J8HWWD",
+          "Booking_Number": "Airbnb",
+          "GoogleMaps": "https://maps.app.goo.gl/csXsyLg68Ko4t4TQ9"
         }
       ],
       "Noche": [
@@ -703,25 +623,9 @@
           "Emoji": "🛍️",
           "City": "Madrid",
           "Title": "Gran Via y alrededores",
-          "Subtitle": "",
-          "Address": "",
-          "Notes": "",
-          "Link": "",
-          "GoogleMaps": "",
-          "Iframe": ""
-        }
-      ],
-      "Mediodía": [
-        {
-          "Emoji": "🍕",
-          "City": "Madrid",
-          "Title": "Gran Via y alrededores",
-          "Subtitle": "",
-          "Address": "",
-          "Notes": "Almuerzo",
-          "Link": "",
-          "GoogleMaps": "",
-          "Iframe": ""
+          "Subtitle": "Compras y conocer la Gran Via partiendo desde la Plaza España",
+          "Address": "Pl. de España, Moncloa - Aravaca, 28008 Madrid, Spain",
+          "GoogleMaps": "https://maps.app.goo.gl/ENxWQtZRBy5ZMTp79"
         }
       ],
       "Tarde": [
@@ -731,38 +635,18 @@
           "Title": "Mercado de San Miguel",
           "Subtitle": "Compras y almorzar",
           "Address": "Pl. de San Miguel, s/n, Centro, 28005 Madrid, Spain",
-          "GoogleMaps": "",
-          "Notes": "Almuerzo",
-          "Link": "https://maps.app.goo.gl/zAn9hfY2czy4MCwV9",
-          "Iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4197.146543795686!2d-3.711423827916664!3d40.41484179530153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42287921196e2d%3A0x162fe6d34dd190e8!2sMercado%20de%20San%20Miguel!5e0!3m2!1sen!2sco!4v1727990671554!5m2!1sen!2sco"
-        }
-      ],
-      "Noche": [
-        {
-          "Emoji": "⛪",
-          "City": "Madrid",
-          "Title": "Night out",
-          "Subtitle": "",
-          "Address": "",
-          "Notes": "Cenar en calle Ponzano",
-          "Link": "",
-          "GoogleMaps": "",
-          "Iframe": ""
+          "GoogleMaps": "https://maps.app.goo.gl/xFF2sGcjhCYaDTq4A",
+          "Notes": "Almuerzo"
         }
       ]
     },
     "Jueves 24 de Octubre": {
       "Mañana": [
         {
-          "Emoji": "⛪",
+          "Emoji": "🥲",
           "City": "Madrid",
-          "Title": "Último día en Europa ",
-          "Address": "",
-          "Notes": "",
-          "Link": "",
-          "Subtitle": "Últimas compras/Último paseo",
-          "GoogleMaps": "",
-          "Iframe": ""
+          "Title": "Último día en Europa",
+          "Subtitle": "Últimas compras/Último paseo"
         }
       ],
       "Mediodía": [
@@ -776,8 +660,7 @@
           "Subtitle": "10h 0m, 15:15 - 18:15",
           "Booking_Number": "WGQWOD",
           "Booking": "https://www.aireuropa.com/co/es/mytrips/managereservation?reservationId=WGQWOD&lastName=SANTAMARIA&checkinBox=false&search=true",
-          "GoogleMaps": "",
-          "Iframe": ""
+          "GoogleMaps": ""
         }
       ]
     }

@@ -94,6 +94,8 @@ card_style = """
 
     .image-container img {
         object-fit: cover;
+        height: 100%;
+        width: 100%;
     }
     </style>
 """
@@ -110,7 +112,7 @@ for day, schedule in itinerary_json.items():
     for time_of_day, activities in schedule.items():
         st.subheader(f"{time_of_day.capitalize()}")
 
-        bg_color = bg_colors.get(time_of_day, "#FFFFFF")
+        bg_color = bg_colors.get(time_of_day, "#010409")
 
         for activity in activities:
             card_content = f'<div class="card" style="background: {bg_color};">'
